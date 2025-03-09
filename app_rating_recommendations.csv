@@ -1,0 +1,1001 @@
+app_id,app_name,category,rating,reviews,installs,price,review_length,word_count
+app_0,WhatsApp,Productivity,3.0,"Decent, but needs more features.",2689086,0.0,5,5
+app_1,Spotify,Communication,2.2,Fast and smooth experience!,9334540,0.0,4,4
+app_2,Instagram,Music,4.0,"Lots of ads, makes it hard to use.",7133289,0.0,8,8
+app_3,Zoom,Entertainment,1.9,Pretty good but needs improvement in UI.,4863893,0.0,7,7
+app_4,Instagram,Entertainment,1.8,Fast and smooth experience!,6613123,0.0,4,4
+app_5,WhatsApp,Entertainment,4.1,Best app I have ever used!,5691963,0.0,6,6
+app_6,Zoom,Productivity,2.7,Great app! Love the features and easy to use.,4689702,0.0,9,9
+app_7,Twitter,Social,3.8,"Terrible experience, too many bugs and crashes.",4033126,0.0,7,7
+app_8,Instagram,Music,2.3,Good but customer support is unresponsive.,7796839,0.0,6,6
+app_9,Zoom,Social,3.3,"Decent, but needs more features.",3359285,0.0,5,5
+app_10,Instagram,Music,1.4,Amazing! Highly recommended.,222404,0.0,3,3
+app_11,Snapchat,Entertainment,1.0,Best app I have ever used!,2578535,0.0,6,6
+app_12,Instagram,Entertainment,5.0,"Terrible experience, too many bugs and crashes.",7478776,0.0,7,7
+app_13,Zoom,Music,1.2,"Decent, but needs more features.",866155,0.0,5,5
+app_14,Instagram,Productivity,1.4,Amazing! Highly recommended.,9404615,0.0,3,3
+app_15,Twitter,Entertainment,1.8,"Decent, but needs more features.",8500838,0.0,5,5
+app_16,WhatsApp,Social,1.3,Best app I have ever used!,1968416,7.73,6,6
+app_17,Instagram,Productivity,1.8,"Decent, but needs more features.",5692368,0.0,5,5
+app_18,Gmail,Productivity,4.3,"Terrible experience, too many bugs and crashes.",5283850,9.58,7,7
+app_19,Netflix,Music,1.6,"Decent, but needs more features.",32518,0.0,5,5
+app_20,Gmail,Music,4.0,Good but customer support is unresponsive.,2340008,0.0,6,6
+app_21,Spotify,Entertainment,1.7,"Lots of ads, makes it hard to use.",3951806,8.94,8,8
+app_22,TikTok,Entertainment,2.7,"Terrible experience, too many bugs and crashes.",4456300,9.68,7,7
+app_23,Gmail,Productivity,1.7,Pretty good but needs improvement in UI.,9006662,0.0,7,7
+app_24,Gmail,Social,1.6,Pretty good but needs improvement in UI.,2786692,6.27,7,7
+app_25,Spotify,Music,1.4,"Not worth the money, very slow.",7653375,0.0,6,6
+app_26,WhatsApp,Music,3.0,Pretty good but needs improvement in UI.,8846278,7.38,7,7
+app_27,Instagram,Music,1.4,"Lots of ads, makes it hard to use.",4722474,0.0,8,8
+app_28,TikTok,Entertainment,2.1,Fast and smooth experience!,5101737,0.0,4,4
+app_29,Zoom,Communication,2.9,Pretty good but needs improvement in UI.,7795557,0.0,7,7
+app_30,WhatsApp,Social,1.9,Good but customer support is unresponsive.,7370795,4.63,6,6
+app_31,Twitter,Communication,4.8,"Not worth the money, very slow.",571491,0.0,6,6
+app_32,Netflix,Music,2.9,Pretty good but needs improvement in UI.,1970657,0.0,7,7
+app_33,Spotify,Social,3.3,Pretty good but needs improvement in UI.,2248892,0.0,7,7
+app_34,Twitter,Productivity,4.0,Fast and smooth experience!,6406666,0.0,4,4
+app_35,Gmail,Entertainment,3.5,"Terrible experience, too many bugs and crashes.",3810293,7.22,7,7
+app_36,Facebook,Music,4.6,Fast and smooth experience!,4231683,0.0,4,4
+app_37,Zoom,Social,1.7,Best app I have ever used!,3617117,0.0,6,6
+app_38,Gmail,Entertainment,4.3,Pretty good but needs improvement in UI.,8676679,0.0,7,7
+app_39,Netflix,Entertainment,3.4,"Decent, but needs more features.",9621095,0.0,5,5
+app_40,Instagram,Entertainment,2.5,Good but customer support is unresponsive.,4956274,0.0,6,6
+app_41,Snapchat,Productivity,1.7,Best app I have ever used!,3598802,0.0,6,6
+app_42,Snapchat,Communication,1.7,"Decent, but needs more features.",2223393,0.0,5,5
+app_43,TikTok,Music,1.1,"Lots of ads, makes it hard to use.",1627975,0.0,8,8
+app_44,Facebook,Social,1.4,Good but customer support is unresponsive.,9529150,0.0,6,6
+app_45,TikTok,Social,2.1,"Decent, but needs more features.",7139570,0.0,5,5
+app_46,WhatsApp,Productivity,1.7,Good but customer support is unresponsive.,5639190,5.27,6,6
+app_47,Netflix,Entertainment,4.3,"Not worth the money, very slow.",3239965,6.96,6,6
+app_48,Twitter,Productivity,2.7,Amazing! Highly recommended.,1117410,0.0,3,3
+app_49,WhatsApp,Entertainment,2.6,Amazing! Highly recommended.,2874537,0.0,3,3
+app_50,Facebook,Communication,4.0,"Lots of ads, makes it hard to use.",3400148,0.0,8,8
+app_51,Gmail,Productivity,1.5,"Terrible experience, too many bugs and crashes.",9153226,0.0,7,7
+app_52,Spotify,Communication,1.9,Pretty good but needs improvement in UI.,7116099,0.0,7,7
+app_53,Netflix,Productivity,1.7,Pretty good but needs improvement in UI.,1684970,0.0,7,7
+app_54,Instagram,Productivity,4.2,Great app! Love the features and easy to use.,5568596,0.0,9,9
+app_55,Gmail,Music,2.7,Fast and smooth experience!,7536304,0.0,4,4
+app_56,Instagram,Music,4.5,Fast and smooth experience!,1481094,0.0,4,4
+app_57,TikTok,Social,2.8,Pretty good but needs improvement in UI.,8706567,0.0,7,7
+app_58,Instagram,Entertainment,4.7,Amazing! Highly recommended.,2877651,0.0,3,3
+app_59,Spotify,Entertainment,3.4,"Decent, but needs more features.",8469669,0.0,5,5
+app_60,Spotify,Communication,1.9,Best app I have ever used!,7161052,0.0,6,6
+app_61,Snapchat,Entertainment,3.3,Good but customer support is unresponsive.,3183965,0.0,6,6
+app_62,Twitter,Entertainment,4.7,Best app I have ever used!,6395765,0.0,6,6
+app_63,Zoom,Entertainment,4.0,"Not worth the money, very slow.",3092461,0.0,6,6
+app_64,Gmail,Social,2.9,"Lots of ads, makes it hard to use.",357198,0.0,8,8
+app_65,Netflix,Productivity,3.0,"Terrible experience, too many bugs and crashes.",8199461,0.0,7,7
+app_66,Twitter,Productivity,4.8,Best app I have ever used!,7951953,0.0,6,6
+app_67,WhatsApp,Communication,4.0,Best app I have ever used!,5572667,0.0,6,6
+app_68,TikTok,Music,3.2,"Lots of ads, makes it hard to use.",8904679,0.0,8,8
+app_69,Facebook,Communication,3.1,Fast and smooth experience!,5162185,0.0,4,4
+app_70,Spotify,Communication,2.1,Pretty good but needs improvement in UI.,4945783,0.0,7,7
+app_71,Instagram,Social,2.9,"Terrible experience, too many bugs and crashes.",1219304,9.1,7,7
+app_72,Facebook,Social,3.0,Pretty good but needs improvement in UI.,8753746,0.0,7,7
+app_73,Twitter,Productivity,2.8,"Terrible experience, too many bugs and crashes.",669188,0.0,7,7
+app_74,Spotify,Music,1.3,"Decent, but needs more features.",9290230,0.33,5,5
+app_75,Snapchat,Music,2.0,Good but customer support is unresponsive.,398055,3.02,6,6
+app_76,Snapchat,Music,1.2,Pretty good but needs improvement in UI.,4622652,0.0,7,7
+app_77,Gmail,Entertainment,3.6,Good but customer support is unresponsive.,8911899,0.0,6,6
+app_78,Zoom,Entertainment,4.6,Pretty good but needs improvement in UI.,2176958,6.71,7,7
+app_79,WhatsApp,Entertainment,4.7,"Decent, but needs more features.",6703450,5.67,5,5
+app_80,Zoom,Entertainment,4.0,"Not worth the money, very slow.",9351957,0.0,6,6
+app_81,Zoom,Productivity,4.1,Fast and smooth experience!,7857611,6.17,4,4
+app_82,Snapchat,Music,3.9,"Not worth the money, very slow.",745225,0.0,6,6
+app_83,Instagram,Productivity,2.8,"Not worth the money, very slow.",7499845,5.82,6,6
+app_84,Netflix,Social,3.3,"Lots of ads, makes it hard to use.",3794550,0.0,8,8
+app_85,Gmail,Entertainment,3.8,"Terrible experience, too many bugs and crashes.",6362814,0.0,7,7
+app_86,WhatsApp,Music,1.3,"Not worth the money, very slow.",9473434,0.0,6,6
+app_87,Twitter,Productivity,4.5,"Terrible experience, too many bugs and crashes.",7306067,0.0,7,7
+app_88,TikTok,Music,4.6,Fast and smooth experience!,183521,4.62,4,4
+app_89,TikTok,Music,2.7,"Decent, but needs more features.",2929439,0.0,5,5
+app_90,TikTok,Music,2.4,Best app I have ever used!,4603632,0.0,6,6
+app_91,Netflix,Music,2.5,Amazing! Highly recommended.,9769771,0.0,3,3
+app_92,WhatsApp,Music,4.0,"Not worth the money, very slow.",9005200,3.76,6,6
+app_93,Snapchat,Communication,4.9,Amazing! Highly recommended.,5904664,0.0,3,3
+app_94,Gmail,Productivity,3.8,"Lots of ads, makes it hard to use.",4885482,8.2,8,8
+app_95,Facebook,Entertainment,3.9,Great app! Love the features and easy to use.,9705501,0.0,9,9
+app_96,Zoom,Productivity,1.9,"Terrible experience, too many bugs and crashes.",1543206,0.0,7,7
+app_97,WhatsApp,Music,1.9,Best app I have ever used!,6110402,7.42,6,6
+app_98,Spotify,Productivity,2.6,"Lots of ads, makes it hard to use.",3345184,0.0,8,8
+app_99,Netflix,Social,2.0,Good but customer support is unresponsive.,2555440,0.0,6,6
+app_100,TikTok,Music,4.8,"Not worth the money, very slow.",2051528,0.0,6,6
+app_101,Gmail,Music,4.9,Good but customer support is unresponsive.,8815889,0.0,6,6
+app_102,Twitter,Communication,2.3,"Terrible experience, too many bugs and crashes.",1512795,0.0,7,7
+app_103,WhatsApp,Music,3.9,Pretty good but needs improvement in UI.,3443881,0.0,7,7
+app_104,Netflix,Productivity,3.9,"Decent, but needs more features.",6605656,3.28,5,5
+app_105,Twitter,Entertainment,3.8,Best app I have ever used!,8314810,0.0,6,6
+app_106,Instagram,Music,4.5,"Lots of ads, makes it hard to use.",2064676,0.0,8,8
+app_107,Twitter,Social,3.2,"Terrible experience, too many bugs and crashes.",101699,3.87,7,7
+app_108,WhatsApp,Productivity,2.1,"Decent, but needs more features.",6632852,0.0,5,5
+app_109,WhatsApp,Music,1.4,Best app I have ever used!,6548122,1.34,6,6
+app_110,WhatsApp,Entertainment,4.5,Good but customer support is unresponsive.,3323742,6.64,6,6
+app_111,TikTok,Entertainment,2.7,"Decent, but needs more features.",8113549,0.0,5,5
+app_112,Facebook,Social,1.9,Fast and smooth experience!,1441778,0.0,4,4
+app_113,Netflix,Communication,4.4,Fast and smooth experience!,3925854,0.0,4,4
+app_114,Snapchat,Communication,4.3,"Decent, but needs more features.",6557047,0.0,5,5
+app_115,Gmail,Productivity,1.2,Great app! Love the features and easy to use.,3867901,0.0,9,9
+app_116,Facebook,Social,3.0,"Decent, but needs more features.",9048025,0.0,5,5
+app_117,Twitter,Communication,3.5,Pretty good but needs improvement in UI.,311526,0.0,7,7
+app_118,Twitter,Productivity,4.2,Great app! Love the features and easy to use.,7525672,0.0,9,9
+app_119,Facebook,Social,4.1,"Terrible experience, too many bugs and crashes.",5006390,1.18,7,7
+app_120,TikTok,Music,4.1,Good but customer support is unresponsive.,5722977,0.0,6,6
+app_121,Netflix,Social,2.6,"Decent, but needs more features.",796874,0.0,5,5
+app_122,WhatsApp,Entertainment,3.2,Fast and smooth experience!,8759275,6.69,4,4
+app_123,Netflix,Social,3.0,Fast and smooth experience!,435573,0.0,4,4
+app_124,Spotify,Social,2.3,"Decent, but needs more features.",5540864,0.0,5,5
+app_125,TikTok,Entertainment,2.0,Great app! Love the features and easy to use.,5505816,0.0,9,9
+app_126,Twitter,Music,2.9,"Terrible experience, too many bugs and crashes.",7837340,0.0,7,7
+app_127,Facebook,Music,4.7,Pretty good but needs improvement in UI.,8300065,0.52,7,7
+app_128,Instagram,Music,3.7,Great app! Love the features and easy to use.,4196499,0.0,9,9
+app_129,Snapchat,Entertainment,2.9,Best app I have ever used!,1487243,0.0,6,6
+app_130,TikTok,Social,2.4,Good but customer support is unresponsive.,5561168,0.0,6,6
+app_131,Snapchat,Music,4.5,Fast and smooth experience!,3699536,0.0,4,4
+app_132,Facebook,Productivity,4.1,"Lots of ads, makes it hard to use.",6837596,4.0,8,8
+app_133,Twitter,Entertainment,4.4,"Terrible experience, too many bugs and crashes.",3837939,0.0,7,7
+app_134,WhatsApp,Communication,1.5,"Terrible experience, too many bugs and crashes.",6272224,0.0,7,7
+app_135,Gmail,Productivity,1.9,Good but customer support is unresponsive.,418847,0.0,6,6
+app_136,Facebook,Communication,4.7,Best app I have ever used!,2257044,1.17,6,6
+app_137,TikTok,Social,2.4,"Lots of ads, makes it hard to use.",1322805,0.0,8,8
+app_138,Instagram,Social,2.7,"Lots of ads, makes it hard to use.",2782477,0.0,8,8
+app_139,Facebook,Productivity,4.7,"Not worth the money, very slow.",2173594,0.0,6,6
+app_140,Spotify,Music,3.7,"Not worth the money, very slow.",5803581,0.0,6,6
+app_141,Twitter,Music,4.4,Fast and smooth experience!,4777623,0.0,4,4
+app_142,Gmail,Social,4.0,"Decent, but needs more features.",3992350,0.0,5,5
+app_143,Spotify,Entertainment,1.8,Pretty good but needs improvement in UI.,2974628,0.0,7,7
+app_144,Instagram,Productivity,2.8,Amazing! Highly recommended.,4130392,0.0,3,3
+app_145,Gmail,Social,1.9,Fast and smooth experience!,4488633,0.0,4,4
+app_146,Zoom,Music,1.1,"Terrible experience, too many bugs and crashes.",4345216,3.6,7,7
+app_147,Snapchat,Productivity,4.8,Great app! Love the features and easy to use.,4365440,0.0,9,9
+app_148,Twitter,Productivity,2.8,Fast and smooth experience!,9811080,0.0,4,4
+app_149,Twitter,Social,2.2,"Not worth the money, very slow.",1812958,0.0,6,6
+app_150,Netflix,Communication,1.4,Amazing! Highly recommended.,3466250,0.0,3,3
+app_151,Twitter,Entertainment,1.6,"Lots of ads, makes it hard to use.",1866453,0.0,8,8
+app_152,Snapchat,Entertainment,3.2,"Decent, but needs more features.",2690790,0.0,5,5
+app_153,Facebook,Music,1.3,Great app! Love the features and easy to use.,8062778,0.0,9,9
+app_154,Facebook,Communication,4.9,Good but customer support is unresponsive.,4808237,0.0,6,6
+app_155,Netflix,Productivity,4.4,Good but customer support is unresponsive.,6317204,0.0,6,6
+app_156,Snapchat,Productivity,2.6,Best app I have ever used!,3115743,0.0,6,6
+app_157,Twitter,Productivity,1.8,Pretty good but needs improvement in UI.,6807492,0.0,7,7
+app_158,Twitter,Communication,4.8,Pretty good but needs improvement in UI.,2143766,8.85,7,7
+app_159,Twitter,Music,1.7,"Decent, but needs more features.",3613888,0.0,5,5
+app_160,Instagram,Entertainment,4.4,"Not worth the money, very slow.",3034681,0.0,6,6
+app_161,Instagram,Social,4.2,"Terrible experience, too many bugs and crashes.",6747304,0.0,7,7
+app_162,Gmail,Music,2.3,Fast and smooth experience!,5142693,0.0,4,4
+app_163,WhatsApp,Music,1.2,Good but customer support is unresponsive.,7781077,0.0,6,6
+app_164,Spotify,Communication,2.2,"Lots of ads, makes it hard to use.",4724576,0.0,8,8
+app_165,Gmail,Productivity,4.9,Good but customer support is unresponsive.,9397970,4.62,6,6
+app_166,Gmail,Entertainment,2.4,Amazing! Highly recommended.,1633227,0.0,3,3
+app_167,Gmail,Social,1.4,"Lots of ads, makes it hard to use.",4956723,0.0,8,8
+app_168,TikTok,Entertainment,4.0,Best app I have ever used!,4944606,0.0,6,6
+app_169,WhatsApp,Communication,3.0,Amazing! Highly recommended.,8845084,0.0,3,3
+app_170,Netflix,Productivity,3.1,Fast and smooth experience!,6275497,0.0,4,4
+app_171,WhatsApp,Entertainment,3.9,Amazing! Highly recommended.,9943362,0.0,3,3
+app_172,Gmail,Music,4.4,"Decent, but needs more features.",7776954,0.0,5,5
+app_173,Gmail,Entertainment,2.6,"Not worth the money, very slow.",4251902,0.0,6,6
+app_174,Netflix,Communication,4.6,"Not worth the money, very slow.",4719868,0.0,6,6
+app_175,Zoom,Productivity,2.4,Fast and smooth experience!,8164876,0.0,4,4
+app_176,Snapchat,Music,4.0,Best app I have ever used!,9475181,0.67,6,6
+app_177,Facebook,Communication,4.1,"Not worth the money, very slow.",8252702,0.0,6,6
+app_178,Netflix,Social,1.6,Good but customer support is unresponsive.,2587005,0.0,6,6
+app_179,WhatsApp,Music,1.7,Good but customer support is unresponsive.,3865451,0.0,6,6
+app_180,Zoom,Entertainment,1.3,Fast and smooth experience!,3141402,0.0,4,4
+app_181,Gmail,Productivity,4.8,Great app! Love the features and easy to use.,946378,0.0,9,9
+app_182,Zoom,Music,1.0,Amazing! Highly recommended.,4100836,2.52,3,3
+app_183,Gmail,Social,1.6,Fast and smooth experience!,7645084,0.0,4,4
+app_184,WhatsApp,Social,1.1,"Terrible experience, too many bugs and crashes.",7410690,0.0,7,7
+app_185,TikTok,Communication,2.5,Pretty good but needs improvement in UI.,4294962,0.0,7,7
+app_186,Gmail,Productivity,1.7,"Decent, but needs more features.",5086667,0.0,5,5
+app_187,Snapchat,Music,3.9,Great app! Love the features and easy to use.,9795336,0.0,9,9
+app_188,Facebook,Entertainment,1.1,Amazing! Highly recommended.,9992263,0.0,3,3
+app_189,Zoom,Music,2.6,Fast and smooth experience!,3531028,0.0,4,4
+app_190,WhatsApp,Music,4.1,"Terrible experience, too many bugs and crashes.",5215442,0.0,7,7
+app_191,Instagram,Communication,2.4,"Terrible experience, too many bugs and crashes.",8780700,2.68,7,7
+app_192,Netflix,Productivity,3.0,"Terrible experience, too many bugs and crashes.",7954293,0.0,7,7
+app_193,Zoom,Music,2.5,Fast and smooth experience!,3873890,0.0,4,4
+app_194,WhatsApp,Social,4.6,Fast and smooth experience!,2121852,0.0,4,4
+app_195,Snapchat,Social,2.8,Fast and smooth experience!,136581,0.0,4,4
+app_196,Facebook,Productivity,3.1,Fast and smooth experience!,1347837,0.0,4,4
+app_197,Twitter,Productivity,2.8,Amazing! Highly recommended.,4410020,0.0,3,3
+app_198,Snapchat,Social,3.3,Best app I have ever used!,6726415,0.0,6,6
+app_199,Snapchat,Communication,3.8,Amazing! Highly recommended.,6273616,0.0,3,3
+app_200,Spotify,Social,1.9,"Not worth the money, very slow.",6937853,0.0,6,6
+app_201,Netflix,Communication,3.7,Amazing! Highly recommended.,1693876,0.0,3,3
+app_202,Snapchat,Communication,1.4,"Not worth the money, very slow.",8402589,0.0,6,6
+app_203,TikTok,Music,1.5,Best app I have ever used!,9709905,0.0,6,6
+app_204,Spotify,Communication,4.4,Pretty good but needs improvement in UI.,4889026,0.0,7,7
+app_205,TikTok,Communication,2.0,"Lots of ads, makes it hard to use.",7735329,9.78,8,8
+app_206,TikTok,Social,2.7,Pretty good but needs improvement in UI.,4714103,8.87,7,7
+app_207,WhatsApp,Communication,1.6,Amazing! Highly recommended.,2994768,0.0,3,3
+app_208,TikTok,Entertainment,1.0,Great app! Love the features and easy to use.,6664408,0.0,9,9
+app_209,Netflix,Entertainment,3.0,"Terrible experience, too many bugs and crashes.",1785940,0.0,7,7
+app_210,Netflix,Communication,1.7,Fast and smooth experience!,822828,0.0,4,4
+app_211,Twitter,Communication,3.6,Best app I have ever used!,3079947,0.0,6,6
+app_212,WhatsApp,Communication,1.8,Fast and smooth experience!,1060448,0.0,4,4
+app_213,Snapchat,Productivity,3.0,"Decent, but needs more features.",5620588,0.0,5,5
+app_214,Twitter,Social,2.1,"Decent, but needs more features.",2454263,0.0,5,5
+app_215,Facebook,Music,1.7,Great app! Love the features and easy to use.,9098933,1.7,9,9
+app_216,TikTok,Music,2.6,"Terrible experience, too many bugs and crashes.",502789,6.61,7,7
+app_217,Spotify,Communication,3.5,Fast and smooth experience!,2862485,8.44,4,4
+app_218,Netflix,Social,2.7,Pretty good but needs improvement in UI.,4134601,0.0,7,7
+app_219,Instagram,Social,2.1,Good but customer support is unresponsive.,1718906,0.0,6,6
+app_220,WhatsApp,Social,2.9,"Not worth the money, very slow.",3942369,0.0,6,6
+app_221,Snapchat,Social,5.0,"Lots of ads, makes it hard to use.",8559123,5.32,8,8
+app_222,Instagram,Productivity,1.2,"Lots of ads, makes it hard to use.",3468650,0.0,8,8
+app_223,Netflix,Productivity,4.5,Good but customer support is unresponsive.,2748715,0.0,6,6
+app_224,Instagram,Communication,4.1,Best app I have ever used!,58802,0.0,6,6
+app_225,Spotify,Communication,2.7,Fast and smooth experience!,8416506,0.0,4,4
+app_226,Instagram,Music,1.4,Good but customer support is unresponsive.,1563745,0.0,6,6
+app_227,Gmail,Entertainment,4.3,Great app! Love the features and easy to use.,9724108,0.0,9,9
+app_228,Gmail,Social,1.8,Pretty good but needs improvement in UI.,5130049,0.0,7,7
+app_229,TikTok,Productivity,3.7,Amazing! Highly recommended.,4091142,0.0,3,3
+app_230,Instagram,Communication,2.4,"Not worth the money, very slow.",6094924,0.0,6,6
+app_231,Twitter,Productivity,2.8,Best app I have ever used!,3396252,0.0,6,6
+app_232,Zoom,Productivity,2.1,"Not worth the money, very slow.",7470371,3.78,6,6
+app_233,Snapchat,Productivity,4.7,Amazing! Highly recommended.,2316879,0.0,3,3
+app_234,Netflix,Music,3.4,"Decent, but needs more features.",2427277,7.06,5,5
+app_235,WhatsApp,Communication,1.4,Best app I have ever used!,3450022,0.0,6,6
+app_236,Netflix,Entertainment,4.6,"Decent, but needs more features.",240735,0.0,5,5
+app_237,WhatsApp,Communication,4.5,Pretty good but needs improvement in UI.,1248583,0.0,7,7
+app_238,Instagram,Social,2.1,"Lots of ads, makes it hard to use.",5531922,0.0,8,8
+app_239,Spotify,Music,4.6,"Lots of ads, makes it hard to use.",1706927,0.0,8,8
+app_240,WhatsApp,Music,1.8,Fast and smooth experience!,7805357,7.68,4,4
+app_241,Facebook,Social,3.2,Pretty good but needs improvement in UI.,990066,0.0,7,7
+app_242,Snapchat,Social,1.9,"Terrible experience, too many bugs and crashes.",8055752,0.0,7,7
+app_243,Spotify,Music,3.7,"Not worth the money, very slow.",8884051,0.0,6,6
+app_244,Zoom,Social,3.6,"Decent, but needs more features.",7214945,0.0,5,5
+app_245,Facebook,Productivity,1.2,Good but customer support is unresponsive.,3771241,0.0,6,6
+app_246,Snapchat,Music,3.0,Great app! Love the features and easy to use.,4703127,0.0,9,9
+app_247,Zoom,Social,1.1,Pretty good but needs improvement in UI.,8699775,8.07,7,7
+app_248,WhatsApp,Entertainment,1.1,Good but customer support is unresponsive.,3387442,5.24,6,6
+app_249,Snapchat,Music,3.0,Good but customer support is unresponsive.,2761274,9.31,6,6
+app_250,Netflix,Social,4.2,"Lots of ads, makes it hard to use.",4830107,1.19,8,8
+app_251,TikTok,Productivity,1.1,Best app I have ever used!,9038466,3.62,6,6
+app_252,Zoom,Social,2.8,"Decent, but needs more features.",3797473,2.81,5,5
+app_253,TikTok,Productivity,1.1,Pretty good but needs improvement in UI.,5674143,2.59,7,7
+app_254,Zoom,Communication,1.3,Best app I have ever used!,40099,0.0,6,6
+app_255,WhatsApp,Social,1.2,Fast and smooth experience!,282647,9.14,4,4
+app_256,Instagram,Social,3.1,Fast and smooth experience!,1264922,0.0,4,4
+app_257,Zoom,Music,2.7,Good but customer support is unresponsive.,5486069,0.0,6,6
+app_258,Netflix,Music,4.4,Great app! Love the features and easy to use.,5415626,0.0,9,9
+app_259,WhatsApp,Productivity,1.7,Fast and smooth experience!,8734355,0.0,4,4
+app_260,Facebook,Entertainment,1.7,"Terrible experience, too many bugs and crashes.",5509063,0.0,7,7
+app_261,WhatsApp,Social,4.2,Amazing! Highly recommended.,2008599,0.0,3,3
+app_262,Zoom,Music,3.0,Great app! Love the features and easy to use.,4102531,0.0,9,9
+app_263,Spotify,Productivity,4.4,"Terrible experience, too many bugs and crashes.",8451159,9.48,7,7
+app_264,Spotify,Social,2.9,Great app! Love the features and easy to use.,6611956,0.0,9,9
+app_265,Facebook,Communication,2.2,"Not worth the money, very slow.",1422258,8.56,6,6
+app_266,Netflix,Entertainment,1.7,Great app! Love the features and easy to use.,2525543,0.0,9,9
+app_267,Netflix,Entertainment,3.9,Great app! Love the features and easy to use.,8916719,0.0,9,9
+app_268,Spotify,Entertainment,2.2,Good but customer support is unresponsive.,6063751,0.0,6,6
+app_269,Instagram,Social,3.6,Great app! Love the features and easy to use.,808219,0.0,9,9
+app_270,Twitter,Communication,3.6,Great app! Love the features and easy to use.,7944060,0.0,9,9
+app_271,Snapchat,Communication,2.1,"Decent, but needs more features.",457029,9.89,5,5
+app_272,WhatsApp,Communication,4.9,"Terrible experience, too many bugs and crashes.",9729665,0.0,7,7
+app_273,WhatsApp,Productivity,1.8,Amazing! Highly recommended.,629214,0.0,3,3
+app_274,Spotify,Communication,3.6,"Decent, but needs more features.",780217,0.14,5,5
+app_275,Netflix,Entertainment,4.6,Fast and smooth experience!,3845643,0.0,4,4
+app_276,Snapchat,Social,3.7,Best app I have ever used!,4895305,0.0,6,6
+app_277,Twitter,Productivity,4.7,"Not worth the money, very slow.",8619477,0.0,6,6
+app_278,TikTok,Communication,4.1,Fast and smooth experience!,4232982,0.0,4,4
+app_279,Netflix,Entertainment,2.5,"Decent, but needs more features.",5577377,0.0,5,5
+app_280,Snapchat,Music,5.0,Amazing! Highly recommended.,6220768,0.0,3,3
+app_281,Twitter,Social,3.3,Amazing! Highly recommended.,9403974,0.0,3,3
+app_282,Facebook,Entertainment,4.5,"Terrible experience, too many bugs and crashes.",6336174,1.46,7,7
+app_283,Gmail,Communication,4.8,Fast and smooth experience!,8417002,0.0,4,4
+app_284,Instagram,Entertainment,2.0,Best app I have ever used!,8491311,0.0,6,6
+app_285,Facebook,Productivity,3.0,"Terrible experience, too many bugs and crashes.",6591010,0.0,7,7
+app_286,Snapchat,Communication,4.2,Great app! Love the features and easy to use.,4293093,0.0,9,9
+app_287,TikTok,Music,3.4,Fast and smooth experience!,9043445,0.0,4,4
+app_288,Netflix,Communication,3.9,Amazing! Highly recommended.,4035425,0.0,3,3
+app_289,Zoom,Social,3.4,"Lots of ads, makes it hard to use.",6869257,0.0,8,8
+app_290,TikTok,Music,3.6,Fast and smooth experience!,1682978,0.0,4,4
+app_291,TikTok,Social,3.5,Good but customer support is unresponsive.,7466011,0.0,6,6
+app_292,WhatsApp,Productivity,4.1,Fast and smooth experience!,496512,7.78,4,4
+app_293,Netflix,Productivity,1.3,Great app! Love the features and easy to use.,7747359,0.0,9,9
+app_294,Spotify,Music,4.4,Amazing! Highly recommended.,7863361,9.74,3,3
+app_295,Facebook,Entertainment,2.1,"Not worth the money, very slow.",794743,0.0,6,6
+app_296,Zoom,Productivity,4.7,Pretty good but needs improvement in UI.,408557,0.0,7,7
+app_297,Facebook,Communication,2.0,Pretty good but needs improvement in UI.,9224685,0.0,7,7
+app_298,Zoom,Music,3.6,Pretty good but needs improvement in UI.,3811424,0.0,7,7
+app_299,Twitter,Social,1.4,"Terrible experience, too many bugs and crashes.",1102369,0.0,7,7
+app_300,Spotify,Entertainment,1.6,"Lots of ads, makes it hard to use.",3179382,0.0,8,8
+app_301,WhatsApp,Communication,2.4,Great app! Love the features and easy to use.,6856001,0.0,9,9
+app_302,Spotify,Social,2.1,Amazing! Highly recommended.,5768206,0.0,3,3
+app_303,Zoom,Music,3.0,Pretty good but needs improvement in UI.,2742025,0.0,7,7
+app_304,Facebook,Productivity,4.7,"Lots of ads, makes it hard to use.",2234922,0.0,8,8
+app_305,Instagram,Entertainment,2.4,Good but customer support is unresponsive.,7562317,0.0,6,6
+app_306,Spotify,Entertainment,2.1,"Not worth the money, very slow.",6732805,0.0,6,6
+app_307,WhatsApp,Music,2.6,"Lots of ads, makes it hard to use.",3409614,0.0,8,8
+app_308,Zoom,Productivity,4.7,Great app! Love the features and easy to use.,1342273,7.47,9,9
+app_309,Gmail,Productivity,4.0,"Not worth the money, very slow.",8761281,8.65,6,6
+app_310,Snapchat,Social,2.7,Good but customer support is unresponsive.,2995767,8.21,6,6
+app_311,Gmail,Social,2.0,Amazing! Highly recommended.,9315979,6.23,3,3
+app_312,Snapchat,Communication,4.3,Pretty good but needs improvement in UI.,3603447,0.0,7,7
+app_313,WhatsApp,Music,2.1,Fast and smooth experience!,1432085,0.0,4,4
+app_314,WhatsApp,Music,4.2,Best app I have ever used!,8320355,0.0,6,6
+app_315,TikTok,Entertainment,4.5,Fast and smooth experience!,3290961,0.0,4,4
+app_316,Snapchat,Social,4.5,Best app I have ever used!,3280070,0.0,6,6
+app_317,Facebook,Social,4.3,Great app! Love the features and easy to use.,4129743,5.56,9,9
+app_318,Snapchat,Music,1.1,Great app! Love the features and easy to use.,7369406,0.0,9,9
+app_319,Twitter,Communication,2.1,"Not worth the money, very slow.",147696,0.0,6,6
+app_320,TikTok,Productivity,3.6,"Lots of ads, makes it hard to use.",7394980,0.0,8,8
+app_321,Netflix,Social,2.8,Fast and smooth experience!,111579,0.0,4,4
+app_322,Twitter,Communication,1.7,Good but customer support is unresponsive.,4257939,0.0,6,6
+app_323,Spotify,Social,3.4,"Terrible experience, too many bugs and crashes.",8436532,0.0,7,7
+app_324,WhatsApp,Music,4.3,Best app I have ever used!,8263338,2.75,6,6
+app_325,WhatsApp,Entertainment,1.9,"Decent, but needs more features.",6301932,0.0,5,5
+app_326,Gmail,Productivity,2.8,Fast and smooth experience!,1763449,0.0,4,4
+app_327,Zoom,Entertainment,2.9,"Not worth the money, very slow.",4385477,0.0,6,6
+app_328,Gmail,Communication,3.9,Great app! Love the features and easy to use.,5509237,0.0,9,9
+app_329,Zoom,Communication,2.0,Fast and smooth experience!,8203736,0.0,4,4
+app_330,Zoom,Music,2.7,Amazing! Highly recommended.,7514996,1.75,3,3
+app_331,Spotify,Communication,3.4,Pretty good but needs improvement in UI.,7751032,0.0,7,7
+app_332,Zoom,Social,2.4,Fast and smooth experience!,4478214,0.0,4,4
+app_333,Gmail,Entertainment,3.6,Pretty good but needs improvement in UI.,3806906,4.56,7,7
+app_334,Spotify,Entertainment,3.3,"Not worth the money, very slow.",3827676,0.0,6,6
+app_335,Zoom,Entertainment,4.0,Great app! Love the features and easy to use.,1655356,0.0,9,9
+app_336,WhatsApp,Entertainment,1.6,Amazing! Highly recommended.,5092316,0.0,3,3
+app_337,Spotify,Social,1.2,Pretty good but needs improvement in UI.,514518,0.0,7,7
+app_338,Snapchat,Entertainment,1.5,Amazing! Highly recommended.,6050353,0.0,3,3
+app_339,Netflix,Communication,2.9,Great app! Love the features and easy to use.,5691678,0.0,9,9
+app_340,Gmail,Productivity,3.6,Pretty good but needs improvement in UI.,5723186,7.84,7,7
+app_341,TikTok,Social,2.8,"Terrible experience, too many bugs and crashes.",3015444,9.86,7,7
+app_342,Facebook,Music,4.4,Great app! Love the features and easy to use.,786118,0.0,9,9
+app_343,WhatsApp,Music,4.8,"Decent, but needs more features.",7750933,0.0,5,5
+app_344,Netflix,Social,2.3,"Decent, but needs more features.",1689389,0.0,5,5
+app_345,TikTok,Music,1.4,Best app I have ever used!,9747907,0.0,6,6
+app_346,Twitter,Music,1.1,Fast and smooth experience!,7748722,0.0,4,4
+app_347,Instagram,Communication,4.5,Amazing! Highly recommended.,9637216,0.0,3,3
+app_348,Instagram,Music,2.6,Fast and smooth experience!,4901030,0.0,4,4
+app_349,Snapchat,Social,1.2,"Decent, but needs more features.",3889841,9.48,5,5
+app_350,WhatsApp,Social,2.4,"Lots of ads, makes it hard to use.",944835,0.0,8,8
+app_351,Gmail,Music,3.0,Amazing! Highly recommended.,5782820,0.0,3,3
+app_352,Gmail,Communication,4.6,Pretty good but needs improvement in UI.,7784758,0.0,7,7
+app_353,Snapchat,Productivity,4.7,Pretty good but needs improvement in UI.,1675827,0.0,7,7
+app_354,Spotify,Social,3.6,Fast and smooth experience!,7356889,0.0,4,4
+app_355,WhatsApp,Productivity,4.6,"Decent, but needs more features.",5518406,2.44,5,5
+app_356,Facebook,Music,2.4,Pretty good but needs improvement in UI.,6800311,0.0,7,7
+app_357,TikTok,Music,3.7,Pretty good but needs improvement in UI.,8374898,3.37,7,7
+app_358,Zoom,Communication,2.0,Good but customer support is unresponsive.,6533846,4.34,6,6
+app_359,Snapchat,Music,1.3,Great app! Love the features and easy to use.,5484817,0.0,9,9
+app_360,Instagram,Social,4.9,Fast and smooth experience!,2443582,0.0,4,4
+app_361,Gmail,Entertainment,1.2,Fast and smooth experience!,4232066,0.0,4,4
+app_362,Instagram,Productivity,2.1,"Terrible experience, too many bugs and crashes.",166063,0.0,7,7
+app_363,TikTok,Entertainment,4.7,"Not worth the money, very slow.",291542,0.0,6,6
+app_364,Twitter,Productivity,3.4,"Lots of ads, makes it hard to use.",228261,0.0,8,8
+app_365,Snapchat,Productivity,3.3,"Decent, but needs more features.",385357,0.0,5,5
+app_366,Snapchat,Music,1.6,Pretty good but needs improvement in UI.,2819215,0.0,7,7
+app_367,Twitter,Productivity,1.5,"Lots of ads, makes it hard to use.",3442702,0.0,8,8
+app_368,Netflix,Social,4.0,Great app! Love the features and easy to use.,9370070,0.0,9,9
+app_369,Gmail,Communication,4.4,"Not worth the money, very slow.",1106541,0.0,6,6
+app_370,TikTok,Entertainment,3.9,Fast and smooth experience!,9446874,0.0,4,4
+app_371,Facebook,Productivity,2.9,Amazing! Highly recommended.,9893341,0.0,3,3
+app_372,Instagram,Music,1.6,Amazing! Highly recommended.,503845,0.0,3,3
+app_373,Instagram,Social,1.4,Good but customer support is unresponsive.,6710611,0.0,6,6
+app_374,WhatsApp,Productivity,1.7,Fast and smooth experience!,8781624,0.52,4,4
+app_375,WhatsApp,Social,5.0,Best app I have ever used!,6224015,6.38,6,6
+app_376,Instagram,Social,3.8,Good but customer support is unresponsive.,1533936,0.0,6,6
+app_377,WhatsApp,Communication,2.8,"Decent, but needs more features.",3237978,0.0,5,5
+app_378,Snapchat,Entertainment,1.3,Best app I have ever used!,6104104,0.0,6,6
+app_379,Spotify,Music,3.1,Fast and smooth experience!,9353926,0.0,4,4
+app_380,Snapchat,Communication,1.1,Pretty good but needs improvement in UI.,1514809,0.0,7,7
+app_381,Instagram,Entertainment,4.9,"Decent, but needs more features.",1493945,0.0,5,5
+app_382,Facebook,Entertainment,4.8,"Lots of ads, makes it hard to use.",3955007,0.0,8,8
+app_383,Twitter,Music,4.9,Fast and smooth experience!,4323139,0.0,4,4
+app_384,Netflix,Social,3.3,Amazing! Highly recommended.,9781734,0.0,3,3
+app_385,Gmail,Productivity,2.0,Fast and smooth experience!,3396551,0.0,4,4
+app_386,WhatsApp,Music,1.4,Amazing! Highly recommended.,8323267,8.99,3,3
+app_387,Zoom,Entertainment,2.3,"Lots of ads, makes it hard to use.",3536767,0.0,8,8
+app_388,Instagram,Productivity,4.3,"Not worth the money, very slow.",1900579,1.37,6,6
+app_389,Facebook,Entertainment,4.3,Pretty good but needs improvement in UI.,3714158,0.0,7,7
+app_390,WhatsApp,Communication,2.8,Amazing! Highly recommended.,4341006,0.0,3,3
+app_391,Gmail,Music,4.9,"Terrible experience, too many bugs and crashes.",1715603,9.85,7,7
+app_392,Twitter,Music,1.0,Amazing! Highly recommended.,4517128,4.36,3,3
+app_393,Netflix,Communication,3.6,Good but customer support is unresponsive.,7060301,0.0,6,6
+app_394,Gmail,Productivity,4.5,Best app I have ever used!,6504461,0.0,6,6
+app_395,Snapchat,Communication,2.5,Fast and smooth experience!,3457524,0.0,4,4
+app_396,Gmail,Communication,1.7,"Terrible experience, too many bugs and crashes.",4049857,0.0,7,7
+app_397,Spotify,Productivity,2.5,Best app I have ever used!,1619095,0.0,6,6
+app_398,Netflix,Music,2.8,Good but customer support is unresponsive.,3392502,0.0,6,6
+app_399,Zoom,Entertainment,4.9,Amazing! Highly recommended.,5668448,0.0,3,3
+app_400,Zoom,Productivity,4.4,Pretty good but needs improvement in UI.,595934,4.84,7,7
+app_401,Zoom,Productivity,4.2,Best app I have ever used!,60173,0.0,6,6
+app_402,Netflix,Social,1.6,"Decent, but needs more features.",4898232,0.0,5,5
+app_403,Netflix,Social,1.3,Amazing! Highly recommended.,224396,0.0,3,3
+app_404,Spotify,Music,3.7,Pretty good but needs improvement in UI.,9995328,1.21,7,7
+app_405,Snapchat,Productivity,4.2,"Not worth the money, very slow.",5145882,0.0,6,6
+app_406,Instagram,Entertainment,1.8,Good but customer support is unresponsive.,3518693,0.0,6,6
+app_407,Facebook,Entertainment,2.1,Pretty good but needs improvement in UI.,4697471,0.0,7,7
+app_408,TikTok,Communication,1.9,Amazing! Highly recommended.,5693445,0.0,3,3
+app_409,TikTok,Music,1.3,Amazing! Highly recommended.,6742072,0.0,3,3
+app_410,Zoom,Productivity,1.1,"Terrible experience, too many bugs and crashes.",2420424,7.02,7,7
+app_411,Spotify,Entertainment,1.6,Pretty good but needs improvement in UI.,6801859,0.0,7,7
+app_412,Facebook,Social,1.2,"Decent, but needs more features.",5390035,0.0,5,5
+app_413,WhatsApp,Entertainment,3.9,"Decent, but needs more features.",5995361,0.0,5,5
+app_414,Zoom,Social,4.7,"Terrible experience, too many bugs and crashes.",6682472,0.0,7,7
+app_415,TikTok,Entertainment,3.4,Fast and smooth experience!,4427882,0.0,4,4
+app_416,Netflix,Social,3.7,Pretty good but needs improvement in UI.,8133254,0.0,7,7
+app_417,Gmail,Music,3.0,"Lots of ads, makes it hard to use.",1440421,0.0,8,8
+app_418,Twitter,Music,3.4,Pretty good but needs improvement in UI.,8353170,0.0,7,7
+app_419,WhatsApp,Social,3.6,Good but customer support is unresponsive.,6106355,5.32,6,6
+app_420,Snapchat,Entertainment,1.2,"Lots of ads, makes it hard to use.",8791289,5.99,8,8
+app_421,WhatsApp,Productivity,1.7,Good but customer support is unresponsive.,9371881,0.0,6,6
+app_422,TikTok,Entertainment,2.0,Good but customer support is unresponsive.,4889410,0.55,6,6
+app_423,Twitter,Communication,1.8,"Terrible experience, too many bugs and crashes.",6645744,0.0,7,7
+app_424,Twitter,Entertainment,2.7,"Terrible experience, too many bugs and crashes.",4077798,1.81,7,7
+app_425,Instagram,Social,1.2,Best app I have ever used!,9097676,0.97,6,6
+app_426,Twitter,Entertainment,1.2,Best app I have ever used!,3525771,0.0,6,6
+app_427,WhatsApp,Entertainment,2.8,"Lots of ads, makes it hard to use.",1821995,0.0,8,8
+app_428,Facebook,Communication,3.7,"Not worth the money, very slow.",6879588,0.0,6,6
+app_429,TikTok,Music,1.2,Good but customer support is unresponsive.,2492105,0.0,6,6
+app_430,Zoom,Music,1.3,Good but customer support is unresponsive.,108173,7.39,6,6
+app_431,Zoom,Productivity,1.9,"Terrible experience, too many bugs and crashes.",4648718,0.0,7,7
+app_432,Zoom,Social,2.7,Great app! Love the features and easy to use.,3496638,0.0,9,9
+app_433,Netflix,Productivity,3.9,"Lots of ads, makes it hard to use.",6224664,7.22,8,8
+app_434,TikTok,Music,1.4,Best app I have ever used!,7089381,4.81,6,6
+app_435,Gmail,Entertainment,2.9,"Lots of ads, makes it hard to use.",2821113,0.28,8,8
+app_436,Spotify,Entertainment,3.7,"Terrible experience, too many bugs and crashes.",5343288,3.17,7,7
+app_437,Instagram,Social,2.8,"Terrible experience, too many bugs and crashes.",8255156,5.84,7,7
+app_438,Snapchat,Entertainment,2.0,"Not worth the money, very slow.",8600435,0.0,6,6
+app_439,Zoom,Productivity,4.9,"Not worth the money, very slow.",1703692,0.0,6,6
+app_440,Netflix,Music,4.6,"Terrible experience, too many bugs and crashes.",9440721,0.0,7,7
+app_441,Netflix,Music,4.9,Fast and smooth experience!,7803710,0.0,4,4
+app_442,Facebook,Productivity,5.0,"Decent, but needs more features.",5862815,0.0,5,5
+app_443,TikTok,Music,1.2,Pretty good but needs improvement in UI.,99217,0.0,7,7
+app_444,Netflix,Productivity,4.8,Good but customer support is unresponsive.,3332243,0.0,6,6
+app_445,Facebook,Music,1.7,Best app I have ever used!,2875447,0.0,6,6
+app_446,Zoom,Entertainment,2.7,Great app! Love the features and easy to use.,6972136,0.0,9,9
+app_447,Zoom,Music,1.7,Best app I have ever used!,4637025,0.0,6,6
+app_448,Snapchat,Music,3.8,"Decent, but needs more features.",4244128,0.0,5,5
+app_449,TikTok,Communication,2.0,"Decent, but needs more features.",3364150,0.0,5,5
+app_450,Zoom,Music,3.8,Fast and smooth experience!,6314417,5.07,4,4
+app_451,Spotify,Entertainment,1.6,Fast and smooth experience!,4029217,0.0,4,4
+app_452,Instagram,Music,4.4,Fast and smooth experience!,1063966,0.0,4,4
+app_453,Twitter,Productivity,1.8,"Not worth the money, very slow.",1573990,0.46,6,6
+app_454,Snapchat,Communication,2.6,Good but customer support is unresponsive.,2238165,6.91,6,6
+app_455,Gmail,Productivity,3.4,"Not worth the money, very slow.",7417052,0.0,6,6
+app_456,Zoom,Productivity,2.2,Good but customer support is unresponsive.,4023013,0.0,6,6
+app_457,Snapchat,Communication,4.7,Pretty good but needs improvement in UI.,2334612,0.0,7,7
+app_458,Instagram,Productivity,1.7,Great app! Love the features and easy to use.,5965892,1.1,9,9
+app_459,Spotify,Music,1.0,"Decent, but needs more features.",3549889,0.0,5,5
+app_460,Spotify,Productivity,2.9,Fast and smooth experience!,7421586,0.0,4,4
+app_461,Snapchat,Music,3.3,Good but customer support is unresponsive.,325049,0.0,6,6
+app_462,Instagram,Music,1.1,"Not worth the money, very slow.",5517223,0.0,6,6
+app_463,Twitter,Productivity,3.7,Fast and smooth experience!,2391876,0.0,4,4
+app_464,Gmail,Entertainment,3.5,Amazing! Highly recommended.,5328529,0.0,3,3
+app_465,TikTok,Music,2.1,"Decent, but needs more features.",9020607,0.0,5,5
+app_466,Netflix,Productivity,2.9,Fast and smooth experience!,4219324,0.0,4,4
+app_467,Netflix,Entertainment,3.7,Good but customer support is unresponsive.,8315924,0.0,6,6
+app_468,Instagram,Communication,3.2,"Lots of ads, makes it hard to use.",2361690,6.28,8,8
+app_469,TikTok,Productivity,1.2,Great app! Love the features and easy to use.,5902182,2.77,9,9
+app_470,Instagram,Social,1.8,"Not worth the money, very slow.",7382105,0.0,6,6
+app_471,Facebook,Social,3.2,Great app! Love the features and easy to use.,5155501,5.28,9,9
+app_472,Facebook,Productivity,3.3,"Lots of ads, makes it hard to use.",7344735,0.0,8,8
+app_473,Facebook,Social,4.8,"Not worth the money, very slow.",3094223,7.61,6,6
+app_474,Gmail,Productivity,4.7,Amazing! Highly recommended.,9947596,0.0,3,3
+app_475,Snapchat,Music,3.6,Great app! Love the features and easy to use.,6656932,0.0,9,9
+app_476,Instagram,Social,2.3,"Terrible experience, too many bugs and crashes.",894343,0.0,7,7
+app_477,Twitter,Social,1.8,Pretty good but needs improvement in UI.,552632,0.0,7,7
+app_478,Gmail,Productivity,4.5,"Lots of ads, makes it hard to use.",2053633,0.0,8,8
+app_479,Facebook,Music,5.0,Best app I have ever used!,910837,0.0,6,6
+app_480,Gmail,Entertainment,3.7,Best app I have ever used!,7733424,6.06,6,6
+app_481,Facebook,Social,3.3,Fast and smooth experience!,5052531,0.0,4,4
+app_482,Facebook,Communication,4.0,Pretty good but needs improvement in UI.,9607417,0.0,7,7
+app_483,WhatsApp,Communication,1.3,Best app I have ever used!,7101959,0.0,6,6
+app_484,Facebook,Communication,4.8,"Decent, but needs more features.",4427388,9.16,5,5
+app_485,Zoom,Communication,4.1,Fast and smooth experience!,8164932,7.69,4,4
+app_486,Gmail,Music,4.9,Pretty good but needs improvement in UI.,4538950,0.0,7,7
+app_487,Facebook,Social,4.4,"Lots of ads, makes it hard to use.",8808734,1.41,8,8
+app_488,Snapchat,Entertainment,4.3,"Lots of ads, makes it hard to use.",1760061,3.21,8,8
+app_489,Spotify,Social,3.4,Fast and smooth experience!,517453,0.0,4,4
+app_490,Zoom,Social,1.5,Good but customer support is unresponsive.,4198042,0.0,6,6
+app_491,Instagram,Social,2.4,"Decent, but needs more features.",6757519,0.0,5,5
+app_492,Facebook,Entertainment,2.6,"Decent, but needs more features.",6311622,0.0,5,5
+app_493,Facebook,Communication,1.9,Best app I have ever used!,6248919,0.0,6,6
+app_494,Spotify,Communication,1.2,"Terrible experience, too many bugs and crashes.",3711942,0.0,7,7
+app_495,Twitter,Social,1.4,Fast and smooth experience!,2900521,0.0,4,4
+app_496,Gmail,Music,2.8,Good but customer support is unresponsive.,6805144,0.0,6,6
+app_497,Zoom,Social,1.2,"Terrible experience, too many bugs and crashes.",3169364,0.0,7,7
+app_498,Netflix,Music,4.6,Great app! Love the features and easy to use.,2533125,2.18,9,9
+app_499,Facebook,Music,2.0,"Not worth the money, very slow.",3202842,0.0,6,6
+app_500,Instagram,Communication,4.0,Fast and smooth experience!,1771596,0.0,4,4
+app_501,Zoom,Communication,2.5,Great app! Love the features and easy to use.,4484995,0.0,9,9
+app_502,WhatsApp,Social,4.1,"Not worth the money, very slow.",5837509,0.0,6,6
+app_503,Snapchat,Social,1.9,Fast and smooth experience!,4446,0.0,4,4
+app_504,TikTok,Music,1.9,Great app! Love the features and easy to use.,4716508,5.34,9,9
+app_505,Instagram,Entertainment,1.2,Great app! Love the features and easy to use.,8357897,0.0,9,9
+app_506,Gmail,Communication,2.8,Best app I have ever used!,865123,0.0,6,6
+app_507,Snapchat,Communication,2.8,"Lots of ads, makes it hard to use.",5178643,0.0,8,8
+app_508,Spotify,Music,2.1,"Terrible experience, too many bugs and crashes.",9039717,0.0,7,7
+app_509,Spotify,Social,3.2,"Not worth the money, very slow.",3602894,0.0,6,6
+app_510,Zoom,Productivity,3.6,Amazing! Highly recommended.,9189638,9.34,3,3
+app_511,Snapchat,Productivity,4.6,"Lots of ads, makes it hard to use.",5701938,0.0,8,8
+app_512,Instagram,Entertainment,3.7,Amazing! Highly recommended.,9363855,0.0,3,3
+app_513,Netflix,Productivity,3.2,"Decent, but needs more features.",1590357,0.0,5,5
+app_514,Facebook,Productivity,2.3,"Terrible experience, too many bugs and crashes.",9756994,2.17,7,7
+app_515,Instagram,Productivity,3.1,Good but customer support is unresponsive.,3228097,0.0,6,6
+app_516,WhatsApp,Communication,2.3,"Not worth the money, very slow.",1184596,0.0,6,6
+app_517,TikTok,Entertainment,2.9,Good but customer support is unresponsive.,8539432,0.0,6,6
+app_518,Zoom,Productivity,1.9,"Not worth the money, very slow.",9237227,0.0,6,6
+app_519,Netflix,Social,3.2,"Not worth the money, very slow.",4633259,0.0,6,6
+app_520,Netflix,Social,4.6,"Lots of ads, makes it hard to use.",7468328,0.0,8,8
+app_521,Twitter,Social,3.0,Great app! Love the features and easy to use.,3027344,0.0,9,9
+app_522,Gmail,Entertainment,4.8,Fast and smooth experience!,1959442,0.0,4,4
+app_523,WhatsApp,Productivity,1.3,Pretty good but needs improvement in UI.,126845,0.0,7,7
+app_524,Facebook,Productivity,3.9,"Decent, but needs more features.",6439766,0.0,5,5
+app_525,Netflix,Social,4.6,Fast and smooth experience!,1011287,0.0,4,4
+app_526,Gmail,Entertainment,4.5,Fast and smooth experience!,5132339,0.0,4,4
+app_527,Netflix,Communication,3.2,Pretty good but needs improvement in UI.,4708830,0.0,7,7
+app_528,Facebook,Entertainment,4.4,Great app! Love the features and easy to use.,1335468,0.0,9,9
+app_529,Instagram,Productivity,4.3,"Decent, but needs more features.",7299983,0.0,5,5
+app_530,Gmail,Social,3.6,"Not worth the money, very slow.",6025281,2.88,6,6
+app_531,Zoom,Entertainment,4.5,"Decent, but needs more features.",2722025,0.0,5,5
+app_532,Instagram,Music,4.7,"Decent, but needs more features.",8134080,4.4,5,5
+app_533,Snapchat,Entertainment,1.8,"Not worth the money, very slow.",553614,0.0,6,6
+app_534,TikTok,Music,2.9,"Decent, but needs more features.",4343937,0.0,5,5
+app_535,Snapchat,Entertainment,2.0,Great app! Love the features and easy to use.,9641186,0.0,9,9
+app_536,Spotify,Entertainment,3.8,Fast and smooth experience!,6276071,0.0,4,4
+app_537,Instagram,Music,1.1,Good but customer support is unresponsive.,4087659,0.0,6,6
+app_538,Instagram,Music,4.1,"Terrible experience, too many bugs and crashes.",1356618,4.31,7,7
+app_539,Snapchat,Music,1.5,"Not worth the money, very slow.",8196574,3.39,6,6
+app_540,Gmail,Productivity,2.3,"Not worth the money, very slow.",4324220,0.0,6,6
+app_541,Netflix,Music,3.9,Best app I have ever used!,6889129,6.32,6,6
+app_542,Gmail,Communication,3.2,"Lots of ads, makes it hard to use.",8943384,3.43,8,8
+app_543,TikTok,Social,1.3,"Not worth the money, very slow.",5569012,0.0,6,6
+app_544,Snapchat,Entertainment,2.7,"Terrible experience, too many bugs and crashes.",1350079,0.0,7,7
+app_545,Snapchat,Productivity,1.2,Pretty good but needs improvement in UI.,819099,0.0,7,7
+app_546,Instagram,Music,3.3,"Decent, but needs more features.",9073695,0.0,5,5
+app_547,Gmail,Social,3.9,Good but customer support is unresponsive.,3049739,0.0,6,6
+app_548,Snapchat,Music,4.0,Good but customer support is unresponsive.,8152244,0.0,6,6
+app_549,Zoom,Social,4.5,Amazing! Highly recommended.,1386927,0.0,3,3
+app_550,Gmail,Productivity,4.7,Pretty good but needs improvement in UI.,1239163,0.0,7,7
+app_551,Netflix,Music,1.5,Best app I have ever used!,6584243,0.0,6,6
+app_552,WhatsApp,Communication,3.0,Great app! Love the features and easy to use.,5470365,0.0,9,9
+app_553,Zoom,Productivity,4.3,Good but customer support is unresponsive.,9727092,0.0,6,6
+app_554,Zoom,Productivity,3.4,"Terrible experience, too many bugs and crashes.",4680098,0.0,7,7
+app_555,Spotify,Entertainment,4.5,Fast and smooth experience!,8259932,0.0,4,4
+app_556,WhatsApp,Productivity,2.8,"Not worth the money, very slow.",1428431,0.0,6,6
+app_557,Facebook,Music,4.4,"Decent, but needs more features.",6936885,0.0,5,5
+app_558,Spotify,Entertainment,2.4,"Lots of ads, makes it hard to use.",5675536,0.0,8,8
+app_559,Twitter,Productivity,2.7,Great app! Love the features and easy to use.,8059412,0.0,9,9
+app_560,Snapchat,Music,1.7,"Decent, but needs more features.",2857539,0.0,5,5
+app_561,Netflix,Social,1.4,"Terrible experience, too many bugs and crashes.",221870,0.0,7,7
+app_562,Facebook,Music,3.3,"Terrible experience, too many bugs and crashes.",4232078,0.0,7,7
+app_563,WhatsApp,Productivity,1.2,"Lots of ads, makes it hard to use.",5947785,0.0,8,8
+app_564,Twitter,Social,2.4,Best app I have ever used!,3375603,0.0,6,6
+app_565,Spotify,Social,2.0,Fast and smooth experience!,2368296,0.0,4,4
+app_566,WhatsApp,Social,4.4,"Lots of ads, makes it hard to use.",7731605,0.0,8,8
+app_567,Snapchat,Productivity,4.4,Amazing! Highly recommended.,5726227,9.46,3,3
+app_568,Snapchat,Productivity,4.5,"Decent, but needs more features.",235288,3.0,5,5
+app_569,Gmail,Entertainment,2.2,Good but customer support is unresponsive.,7098186,0.0,6,6
+app_570,TikTok,Entertainment,4.4,Amazing! Highly recommended.,3560956,0.0,3,3
+app_571,Gmail,Productivity,4.7,Great app! Love the features and easy to use.,7649514,0.0,9,9
+app_572,Zoom,Music,3.9,"Not worth the money, very slow.",6460563,0.0,6,6
+app_573,Zoom,Social,3.7,Fast and smooth experience!,7732145,2.02,4,4
+app_574,Instagram,Music,3.5,"Lots of ads, makes it hard to use.",8096720,0.0,8,8
+app_575,Snapchat,Music,3.7,"Decent, but needs more features.",4101333,9.84,5,5
+app_576,Instagram,Music,3.1,"Terrible experience, too many bugs and crashes.",5255883,1.37,7,7
+app_577,Twitter,Music,3.7,"Terrible experience, too many bugs and crashes.",817155,0.0,7,7
+app_578,Instagram,Communication,4.9,"Not worth the money, very slow.",3078010,0.0,6,6
+app_579,Facebook,Music,3.7,Great app! Love the features and easy to use.,1628500,0.0,9,9
+app_580,Spotify,Music,3.4,Good but customer support is unresponsive.,3063590,0.0,6,6
+app_581,Spotify,Social,2.3,"Terrible experience, too many bugs and crashes.",1160402,5.18,7,7
+app_582,Spotify,Music,3.3,Best app I have ever used!,1452799,0.0,6,6
+app_583,TikTok,Social,4.3,Good but customer support is unresponsive.,7017950,9.82,6,6
+app_584,Spotify,Entertainment,2.7,"Not worth the money, very slow.",4973766,0.0,6,6
+app_585,Instagram,Music,4.8,"Decent, but needs more features.",9419965,4.24,5,5
+app_586,Twitter,Social,1.9,Amazing! Highly recommended.,3499045,0.0,3,3
+app_587,Facebook,Social,1.3,Amazing! Highly recommended.,170679,5.78,3,3
+app_588,Facebook,Social,1.7,Fast and smooth experience!,3666441,0.0,4,4
+app_589,Snapchat,Entertainment,1.4,"Lots of ads, makes it hard to use.",3691084,0.0,8,8
+app_590,TikTok,Social,1.6,Fast and smooth experience!,2057547,0.0,4,4
+app_591,Twitter,Music,4.1,"Terrible experience, too many bugs and crashes.",1927290,0.0,7,7
+app_592,WhatsApp,Social,1.5,Pretty good but needs improvement in UI.,1042205,0.0,7,7
+app_593,Netflix,Productivity,3.7,Great app! Love the features and easy to use.,6009523,0.0,9,9
+app_594,Zoom,Communication,1.9,Fast and smooth experience!,4582181,0.0,4,4
+app_595,Zoom,Music,4.9,Fast and smooth experience!,3050755,0.0,4,4
+app_596,Gmail,Social,1.7,"Terrible experience, too many bugs and crashes.",9299073,0.0,7,7
+app_597,TikTok,Entertainment,3.6,"Decent, but needs more features.",3857649,0.0,5,5
+app_598,Snapchat,Music,3.1,"Not worth the money, very slow.",6267589,0.0,6,6
+app_599,Snapchat,Social,3.5,Fast and smooth experience!,2864553,0.0,4,4
+app_600,Netflix,Social,4.5,Good but customer support is unresponsive.,1061756,3.96,6,6
+app_601,TikTok,Social,2.3,Good but customer support is unresponsive.,943757,0.0,6,6
+app_602,Zoom,Entertainment,2.0,Good but customer support is unresponsive.,5729671,0.0,6,6
+app_603,Netflix,Music,1.1,Best app I have ever used!,1648100,0.0,6,6
+app_604,Netflix,Communication,1.7,Pretty good but needs improvement in UI.,479741,0.0,7,7
+app_605,TikTok,Music,3.9,Great app! Love the features and easy to use.,8779074,0.0,9,9
+app_606,Snapchat,Entertainment,2.9,Pretty good but needs improvement in UI.,7828328,0.0,7,7
+app_607,WhatsApp,Productivity,3.1,Best app I have ever used!,8363921,0.0,6,6
+app_608,Instagram,Social,4.6,Great app! Love the features and easy to use.,2523692,0.0,9,9
+app_609,Facebook,Music,3.1,"Not worth the money, very slow.",9699157,0.0,6,6
+app_610,Twitter,Productivity,3.6,"Lots of ads, makes it hard to use.",122791,0.0,8,8
+app_611,WhatsApp,Entertainment,2.2,Good but customer support is unresponsive.,7362610,0.0,6,6
+app_612,Gmail,Entertainment,4.3,Fast and smooth experience!,5191213,9.21,4,4
+app_613,Twitter,Social,4.6,Best app I have ever used!,6848355,0.0,6,6
+app_614,Netflix,Communication,4.7,Amazing! Highly recommended.,7195442,4.63,3,3
+app_615,Facebook,Social,3.8,Amazing! Highly recommended.,207991,0.0,3,3
+app_616,WhatsApp,Social,2.2,"Decent, but needs more features.",6625413,0.0,5,5
+app_617,Spotify,Entertainment,4.5,"Terrible experience, too many bugs and crashes.",3371251,8.18,7,7
+app_618,Spotify,Productivity,3.3,Amazing! Highly recommended.,8339615,0.0,3,3
+app_619,Spotify,Productivity,1.2,Great app! Love the features and easy to use.,6771108,0.0,9,9
+app_620,WhatsApp,Productivity,4.5,Amazing! Highly recommended.,4403699,0.0,3,3
+app_621,Spotify,Music,3.4,Pretty good but needs improvement in UI.,3573977,0.0,7,7
+app_622,TikTok,Music,4.4,Amazing! Highly recommended.,4109977,0.0,3,3
+app_623,Facebook,Social,3.5,Good but customer support is unresponsive.,1358533,0.0,6,6
+app_624,Facebook,Social,1.4,"Not worth the money, very slow.",8460165,0.0,6,6
+app_625,WhatsApp,Music,1.8,"Not worth the money, very slow.",2849277,2.98,6,6
+app_626,TikTok,Social,1.3,"Lots of ads, makes it hard to use.",1761184,7.04,8,8
+app_627,WhatsApp,Productivity,3.0,Fast and smooth experience!,6646142,0.0,4,4
+app_628,Zoom,Music,2.1,"Terrible experience, too many bugs and crashes.",4213415,0.0,7,7
+app_629,Gmail,Music,3.1,Best app I have ever used!,607852,0.0,6,6
+app_630,Zoom,Entertainment,1.9,Best app I have ever used!,3904117,0.0,6,6
+app_631,Twitter,Communication,3.8,Pretty good but needs improvement in UI.,4858072,0.0,7,7
+app_632,Zoom,Productivity,4.6,"Terrible experience, too many bugs and crashes.",9759759,0.0,7,7
+app_633,Snapchat,Social,2.5,Fast and smooth experience!,7530964,0.0,4,4
+app_634,TikTok,Entertainment,2.5,Good but customer support is unresponsive.,3970541,0.0,6,6
+app_635,Twitter,Music,1.4,Amazing! Highly recommended.,3563892,7.4,3,3
+app_636,Twitter,Social,3.6,Pretty good but needs improvement in UI.,6191382,0.0,7,7
+app_637,Netflix,Communication,1.6,"Not worth the money, very slow.",43620,0.0,6,6
+app_638,Facebook,Music,1.8,Good but customer support is unresponsive.,9340599,0.0,6,6
+app_639,Facebook,Social,1.9,Fast and smooth experience!,9743180,0.0,4,4
+app_640,TikTok,Social,3.1,Amazing! Highly recommended.,8655283,4.69,3,3
+app_641,Snapchat,Social,1.9,"Lots of ads, makes it hard to use.",9280611,0.0,8,8
+app_642,TikTok,Communication,3.2,Pretty good but needs improvement in UI.,895349,2.78,7,7
+app_643,Twitter,Entertainment,2.9,"Not worth the money, very slow.",8405834,0.0,6,6
+app_644,Snapchat,Music,3.3,Great app! Love the features and easy to use.,5915311,0.0,9,9
+app_645,Snapchat,Productivity,4.6,"Terrible experience, too many bugs and crashes.",7890364,0.0,7,7
+app_646,Spotify,Social,2.1,Good but customer support is unresponsive.,9751903,0.0,6,6
+app_647,Zoom,Music,4.1,"Decent, but needs more features.",4800532,0.0,5,5
+app_648,WhatsApp,Communication,3.4,Amazing! Highly recommended.,97776,0.0,3,3
+app_649,Snapchat,Social,1.6,"Decent, but needs more features.",8798262,0.0,5,5
+app_650,Facebook,Productivity,1.1,"Decent, but needs more features.",1362233,0.0,5,5
+app_651,TikTok,Entertainment,3.9,Pretty good but needs improvement in UI.,962324,0.0,7,7
+app_652,Facebook,Music,2.8,Fast and smooth experience!,9561587,0.0,4,4
+app_653,TikTok,Communication,2.2,"Lots of ads, makes it hard to use.",2224547,0.0,8,8
+app_654,Instagram,Communication,4.5,"Not worth the money, very slow.",5240426,0.0,6,6
+app_655,Instagram,Communication,1.5,Great app! Love the features and easy to use.,9869233,0.0,9,9
+app_656,WhatsApp,Social,3.8,Amazing! Highly recommended.,3908119,0.0,3,3
+app_657,Netflix,Productivity,4.7,Best app I have ever used!,5575306,4.93,6,6
+app_658,Spotify,Music,4.7,Good but customer support is unresponsive.,7315893,7.33,6,6
+app_659,Snapchat,Social,1.9,Amazing! Highly recommended.,2315185,9.18,3,3
+app_660,Instagram,Communication,2.7,Fast and smooth experience!,7169286,6.21,4,4
+app_661,Snapchat,Social,2.9,Amazing! Highly recommended.,558054,0.0,3,3
+app_662,Facebook,Communication,1.1,Great app! Love the features and easy to use.,3091046,0.0,9,9
+app_663,TikTok,Social,1.9,"Lots of ads, makes it hard to use.",7019318,0.0,8,8
+app_664,Zoom,Communication,2.9,"Decent, but needs more features.",1052811,0.0,5,5
+app_665,Zoom,Productivity,4.5,Great app! Love the features and easy to use.,6694336,0.0,9,9
+app_666,Twitter,Social,2.2,Fast and smooth experience!,5335613,0.0,4,4
+app_667,Netflix,Productivity,2.7,Great app! Love the features and easy to use.,1802284,0.0,9,9
+app_668,Instagram,Productivity,1.2,Good but customer support is unresponsive.,3606284,0.0,6,6
+app_669,Gmail,Music,3.0,Best app I have ever used!,2583740,0.0,6,6
+app_670,Snapchat,Communication,4.7,Best app I have ever used!,5130415,0.0,6,6
+app_671,WhatsApp,Social,4.9,Best app I have ever used!,1300570,0.0,6,6
+app_672,Gmail,Social,2.1,Pretty good but needs improvement in UI.,7425933,0.0,7,7
+app_673,Netflix,Communication,2.6,Good but customer support is unresponsive.,2840505,0.0,6,6
+app_674,WhatsApp,Music,2.2,Good but customer support is unresponsive.,827907,0.0,6,6
+app_675,Spotify,Entertainment,4.7,"Lots of ads, makes it hard to use.",9682736,0.0,8,8
+app_676,Snapchat,Music,2.6,"Terrible experience, too many bugs and crashes.",7503232,0.0,7,7
+app_677,Spotify,Entertainment,3.0,Amazing! Highly recommended.,5271076,0.0,3,3
+app_678,Spotify,Social,3.8,"Decent, but needs more features.",6658598,0.0,5,5
+app_679,Spotify,Productivity,3.1,Amazing! Highly recommended.,6292646,0.0,3,3
+app_680,Instagram,Music,3.2,"Decent, but needs more features.",3334806,0.0,5,5
+app_681,Snapchat,Productivity,2.0,Great app! Love the features and easy to use.,3794223,0.0,9,9
+app_682,Instagram,Music,2.4,Good but customer support is unresponsive.,8941452,0.0,6,6
+app_683,Zoom,Productivity,4.0,Great app! Love the features and easy to use.,457979,0.7,9,9
+app_684,Facebook,Music,4.7,Best app I have ever used!,7432979,0.0,6,6
+app_685,Zoom,Productivity,3.6,Fast and smooth experience!,1886050,1.7,4,4
+app_686,Snapchat,Communication,3.7,Pretty good but needs improvement in UI.,7868752,0.0,7,7
+app_687,WhatsApp,Communication,1.4,Best app I have ever used!,1948390,0.0,6,6
+app_688,Snapchat,Music,3.5,"Not worth the money, very slow.",1187444,0.0,6,6
+app_689,TikTok,Productivity,1.2,Amazing! Highly recommended.,7180871,0.0,3,3
+app_690,Spotify,Productivity,1.2,Good but customer support is unresponsive.,5183808,0.0,6,6
+app_691,Twitter,Productivity,4.8,Pretty good but needs improvement in UI.,7265020,0.0,7,7
+app_692,Instagram,Productivity,3.0,Amazing! Highly recommended.,6507290,0.0,3,3
+app_693,Zoom,Productivity,4.7,Pretty good but needs improvement in UI.,5557749,0.0,7,7
+app_694,TikTok,Communication,3.3,Amazing! Highly recommended.,3941070,0.0,3,3
+app_695,Netflix,Communication,1.2,"Lots of ads, makes it hard to use.",173134,1.06,8,8
+app_696,TikTok,Communication,4.9,Fast and smooth experience!,2657176,0.0,4,4
+app_697,Zoom,Social,1.8,"Not worth the money, very slow.",3015521,0.0,6,6
+app_698,Netflix,Productivity,4.5,Amazing! Highly recommended.,4290225,0.0,3,3
+app_699,TikTok,Music,4.5,Best app I have ever used!,9765669,8.1,6,6
+app_700,Instagram,Music,4.4,"Not worth the money, very slow.",8413458,0.0,6,6
+app_701,WhatsApp,Music,3.5,"Terrible experience, too many bugs and crashes.",7080666,0.0,7,7
+app_702,WhatsApp,Social,3.9,Pretty good but needs improvement in UI.,38053,0.0,7,7
+app_703,Netflix,Social,4.4,Fast and smooth experience!,7740684,0.0,4,4
+app_704,Facebook,Productivity,4.1,"Terrible experience, too many bugs and crashes.",9877720,0.0,7,7
+app_705,Instagram,Social,3.6,"Lots of ads, makes it hard to use.",7737930,0.0,8,8
+app_706,Instagram,Social,3.5,Pretty good but needs improvement in UI.,7736540,0.0,7,7
+app_707,Spotify,Productivity,1.5,Amazing! Highly recommended.,7102851,0.0,3,3
+app_708,Zoom,Entertainment,2.1,"Not worth the money, very slow.",3652245,0.0,6,6
+app_709,TikTok,Productivity,4.3,Amazing! Highly recommended.,2413416,0.0,3,3
+app_710,WhatsApp,Social,1.6,"Lots of ads, makes it hard to use.",9037490,0.0,8,8
+app_711,Snapchat,Social,1.7,"Lots of ads, makes it hard to use.",4445907,0.0,8,8
+app_712,WhatsApp,Entertainment,4.2,Amazing! Highly recommended.,5601516,0.0,3,3
+app_713,Netflix,Music,4.3,"Decent, but needs more features.",683137,0.0,5,5
+app_714,Facebook,Communication,1.5,"Lots of ads, makes it hard to use.",4453441,0.0,8,8
+app_715,TikTok,Productivity,4.8,"Terrible experience, too many bugs and crashes.",1609420,0.0,7,7
+app_716,Spotify,Music,4.9,Fast and smooth experience!,2505438,0.0,4,4
+app_717,Zoom,Communication,4.2,Great app! Love the features and easy to use.,7667974,0.0,9,9
+app_718,Gmail,Productivity,3.4,Amazing! Highly recommended.,4012628,0.0,3,3
+app_719,Snapchat,Social,4.9,Good but customer support is unresponsive.,9845737,0.0,6,6
+app_720,Gmail,Music,3.5,Fast and smooth experience!,2489521,0.0,4,4
+app_721,Facebook,Productivity,4.8,"Not worth the money, very slow.",3731588,4.19,6,6
+app_722,Netflix,Communication,2.1,Best app I have ever used!,1646104,0.0,6,6
+app_723,WhatsApp,Entertainment,4.9,Amazing! Highly recommended.,5308961,0.0,3,3
+app_724,WhatsApp,Communication,3.8,Amazing! Highly recommended.,7735933,4.05,3,3
+app_725,Twitter,Music,2.4,Fast and smooth experience!,8159839,0.0,4,4
+app_726,TikTok,Social,1.6,"Not worth the money, very slow.",689630,0.0,6,6
+app_727,Netflix,Productivity,2.5,Good but customer support is unresponsive.,8512574,9.28,6,6
+app_728,Twitter,Communication,2.3,Fast and smooth experience!,9379844,0.0,4,4
+app_729,Snapchat,Productivity,2.2,"Terrible experience, too many bugs and crashes.",7167767,0.0,7,7
+app_730,Gmail,Communication,3.6,Good but customer support is unresponsive.,8858959,0.0,6,6
+app_731,TikTok,Music,1.5,"Not worth the money, very slow.",229467,0.0,6,6
+app_732,WhatsApp,Communication,2.6,Fast and smooth experience!,91918,0.0,4,4
+app_733,Snapchat,Communication,3.3,Pretty good but needs improvement in UI.,7311690,0.0,7,7
+app_734,Instagram,Music,4.7,Pretty good but needs improvement in UI.,7346318,0.0,7,7
+app_735,Spotify,Communication,4.3,Fast and smooth experience!,7467554,0.0,4,4
+app_736,Gmail,Communication,1.6,Amazing! Highly recommended.,5861053,0.0,3,3
+app_737,WhatsApp,Productivity,2.1,Great app! Love the features and easy to use.,2086813,1.65,9,9
+app_738,Gmail,Entertainment,3.4,Pretty good but needs improvement in UI.,2536931,0.0,7,7
+app_739,Zoom,Social,4.5,"Lots of ads, makes it hard to use.",4032439,0.0,8,8
+app_740,Twitter,Entertainment,2.5,Fast and smooth experience!,3271477,0.0,4,4
+app_741,TikTok,Music,2.1,"Decent, but needs more features.",6352278,0.0,5,5
+app_742,Instagram,Productivity,2.0,Pretty good but needs improvement in UI.,3483718,0.0,7,7
+app_743,Gmail,Productivity,4.7,Great app! Love the features and easy to use.,9661558,8.37,9,9
+app_744,TikTok,Entertainment,1.2,Fast and smooth experience!,9918097,0.0,4,4
+app_745,Spotify,Productivity,1.6,Good but customer support is unresponsive.,1805763,5.28,6,6
+app_746,Instagram,Communication,4.1,"Terrible experience, too many bugs and crashes.",1257729,0.0,7,7
+app_747,Snapchat,Music,3.4,Good but customer support is unresponsive.,121161,0.0,6,6
+app_748,WhatsApp,Music,1.4,Great app! Love the features and easy to use.,8585385,0.0,9,9
+app_749,Twitter,Productivity,4.2,"Lots of ads, makes it hard to use.",4756291,6.44,8,8
+app_750,Gmail,Communication,3.3,Good but customer support is unresponsive.,7563486,0.0,6,6
+app_751,Zoom,Productivity,4.1,"Terrible experience, too many bugs and crashes.",1483948,0.0,7,7
+app_752,Spotify,Entertainment,3.0,Amazing! Highly recommended.,4378616,0.0,3,3
+app_753,Facebook,Social,2.0,Amazing! Highly recommended.,6185422,0.0,3,3
+app_754,TikTok,Productivity,3.6,Amazing! Highly recommended.,9468741,0.0,3,3
+app_755,Spotify,Music,3.4,"Terrible experience, too many bugs and crashes.",583544,0.0,7,7
+app_756,Twitter,Social,2.3,Amazing! Highly recommended.,9151928,8.68,3,3
+app_757,Zoom,Social,3.9,Great app! Love the features and easy to use.,9919375,0.0,9,9
+app_758,Spotify,Productivity,1.6,Good but customer support is unresponsive.,2583970,0.0,6,6
+app_759,Instagram,Entertainment,4.5,Best app I have ever used!,509961,0.0,6,6
+app_760,Facebook,Music,1.2,"Not worth the money, very slow.",5399685,0.0,6,6
+app_761,TikTok,Communication,2.2,"Terrible experience, too many bugs and crashes.",2058174,1.81,7,7
+app_762,Twitter,Productivity,2.0,Amazing! Highly recommended.,3921291,0.0,3,3
+app_763,Gmail,Social,4.9,Great app! Love the features and easy to use.,4823600,0.0,9,9
+app_764,Twitter,Music,1.6,"Decent, but needs more features.",3376928,5.53,5,5
+app_765,Zoom,Productivity,1.9,Fast and smooth experience!,5850682,0.0,4,4
+app_766,Netflix,Productivity,2.2,"Decent, but needs more features.",3970215,0.0,5,5
+app_767,Gmail,Productivity,1.7,Best app I have ever used!,6488467,0.0,6,6
+app_768,Facebook,Social,2.8,"Not worth the money, very slow.",1720360,0.0,6,6
+app_769,Netflix,Music,3.2,Amazing! Highly recommended.,6321055,0.0,3,3
+app_770,Twitter,Social,1.6,"Not worth the money, very slow.",8357872,0.0,6,6
+app_771,Netflix,Productivity,2.5,Best app I have ever used!,4759311,1.26,6,6
+app_772,Zoom,Social,2.4,"Not worth the money, very slow.",7337181,0.0,6,6
+app_773,Netflix,Entertainment,3.1,Fast and smooth experience!,739373,0.0,4,4
+app_774,Spotify,Social,3.6,Best app I have ever used!,4125706,6.32,6,6
+app_775,Spotify,Communication,1.9,Pretty good but needs improvement in UI.,7274586,0.0,7,7
+app_776,Snapchat,Communication,4.9,Best app I have ever used!,6655970,0.0,6,6
+app_777,Snapchat,Communication,1.6,Pretty good but needs improvement in UI.,4862444,0.0,7,7
+app_778,Snapchat,Social,1.6,Fast and smooth experience!,5540219,0.0,4,4
+app_779,Snapchat,Communication,3.3,Good but customer support is unresponsive.,6101013,1.93,6,6
+app_780,Zoom,Social,4.2,"Lots of ads, makes it hard to use.",5260730,0.0,8,8
+app_781,Facebook,Entertainment,3.9,"Not worth the money, very slow.",4211119,7.64,6,6
+app_782,Twitter,Social,1.9,"Not worth the money, very slow.",3937763,3.24,6,6
+app_783,Gmail,Music,3.8,"Not worth the money, very slow.",1890182,0.0,6,6
+app_784,Snapchat,Communication,2.3,Best app I have ever used!,3225159,0.0,6,6
+app_785,WhatsApp,Communication,4.3,"Not worth the money, very slow.",5932612,6.19,6,6
+app_786,WhatsApp,Entertainment,2.3,Fast and smooth experience!,7071082,0.0,4,4
+app_787,Zoom,Music,2.6,"Terrible experience, too many bugs and crashes.",1601521,0.0,7,7
+app_788,Zoom,Entertainment,2.9,"Not worth the money, very slow.",6518697,0.0,6,6
+app_789,WhatsApp,Social,3.4,"Terrible experience, too many bugs and crashes.",1737343,0.0,7,7
+app_790,Instagram,Music,1.9,Fast and smooth experience!,1738351,0.0,4,4
+app_791,Gmail,Music,1.9,Fast and smooth experience!,3423247,0.0,4,4
+app_792,Zoom,Communication,5.0,"Not worth the money, very slow.",6288706,0.0,6,6
+app_793,WhatsApp,Productivity,4.1,"Not worth the money, very slow.",2983938,2.35,6,6
+app_794,Spotify,Entertainment,3.5,"Decent, but needs more features.",112549,8.08,5,5
+app_795,Netflix,Social,2.3,Best app I have ever used!,9687432,6.85,6,6
+app_796,Netflix,Music,2.2,"Decent, but needs more features.",8320079,0.0,5,5
+app_797,TikTok,Music,3.6,Pretty good but needs improvement in UI.,4808011,0.0,7,7
+app_798,Gmail,Entertainment,1.8,Pretty good but needs improvement in UI.,1828648,0.0,7,7
+app_799,Twitter,Music,1.7,Pretty good but needs improvement in UI.,1989067,0.0,7,7
+app_800,Zoom,Music,3.4,"Not worth the money, very slow.",3211986,0.0,6,6
+app_801,Zoom,Entertainment,3.6,Amazing! Highly recommended.,709907,0.0,3,3
+app_802,Gmail,Productivity,3.2,Good but customer support is unresponsive.,3923027,0.0,6,6
+app_803,Gmail,Communication,1.9,"Terrible experience, too many bugs and crashes.",9425329,0.0,7,7
+app_804,Facebook,Music,3.5,"Terrible experience, too many bugs and crashes.",273601,0.0,7,7
+app_805,WhatsApp,Productivity,2.3,Amazing! Highly recommended.,1856278,7.97,3,3
+app_806,Spotify,Communication,2.5,Amazing! Highly recommended.,282540,0.0,3,3
+app_807,Twitter,Social,2.6,"Not worth the money, very slow.",9294795,0.0,6,6
+app_808,Twitter,Communication,5.0,"Terrible experience, too many bugs and crashes.",2647420,0.0,7,7
+app_809,Instagram,Entertainment,2.3,"Decent, but needs more features.",5975344,0.0,5,5
+app_810,Netflix,Productivity,3.4,"Lots of ads, makes it hard to use.",1010997,0.0,8,8
+app_811,WhatsApp,Music,1.7,"Terrible experience, too many bugs and crashes.",2699902,0.0,7,7
+app_812,Spotify,Social,1.1,"Not worth the money, very slow.",3387853,0.0,6,6
+app_813,Facebook,Music,4.6,Fast and smooth experience!,8767480,0.0,4,4
+app_814,Instagram,Communication,2.6,Best app I have ever used!,6461531,0.0,6,6
+app_815,Zoom,Entertainment,3.0,Best app I have ever used!,2216384,0.0,6,6
+app_816,Snapchat,Productivity,1.8,"Lots of ads, makes it hard to use.",6148041,0.0,8,8
+app_817,WhatsApp,Entertainment,3.8,Great app! Love the features and easy to use.,8964279,0.0,9,9
+app_818,Spotify,Entertainment,2.6,"Decent, but needs more features.",8868049,0.0,5,5
+app_819,Gmail,Entertainment,4.4,Pretty good but needs improvement in UI.,3472824,0.0,7,7
+app_820,Zoom,Communication,1.6,Best app I have ever used!,6473694,0.0,6,6
+app_821,Netflix,Music,4.0,"Terrible experience, too many bugs and crashes.",5483084,1.95,7,7
+app_822,Gmail,Music,2.4,Best app I have ever used!,506579,7.28,6,6
+app_823,Twitter,Social,3.1,Great app! Love the features and easy to use.,2469321,0.0,9,9
+app_824,Twitter,Social,1.8,Amazing! Highly recommended.,8468548,0.0,3,3
+app_825,Twitter,Productivity,4.9,"Terrible experience, too many bugs and crashes.",2803064,0.0,7,7
+app_826,Gmail,Music,1.5,Good but customer support is unresponsive.,7672660,0.0,6,6
+app_827,Facebook,Entertainment,2.4,"Lots of ads, makes it hard to use.",1417700,0.0,8,8
+app_828,Zoom,Productivity,3.1,"Lots of ads, makes it hard to use.",8526490,9.74,8,8
+app_829,Instagram,Social,4.8,Fast and smooth experience!,3730729,0.0,4,4
+app_830,Netflix,Communication,2.6,Good but customer support is unresponsive.,2769180,0.0,6,6
+app_831,Gmail,Entertainment,2.1,Good but customer support is unresponsive.,1180072,0.0,6,6
+app_832,WhatsApp,Productivity,3.5,"Not worth the money, very slow.",8374388,0.0,6,6
+app_833,Spotify,Productivity,4.5,Amazing! Highly recommended.,3394099,0.0,3,3
+app_834,Netflix,Communication,2.0,Amazing! Highly recommended.,7142647,0.0,3,3
+app_835,Netflix,Social,3.0,"Terrible experience, too many bugs and crashes.",9857792,0.0,7,7
+app_836,WhatsApp,Productivity,3.4,Great app! Love the features and easy to use.,1967787,0.0,9,9
+app_837,Twitter,Music,1.1,Fast and smooth experience!,5645539,0.0,4,4
+app_838,Spotify,Productivity,3.4,Fast and smooth experience!,2457396,0.0,4,4
+app_839,Spotify,Entertainment,4.7,Great app! Love the features and easy to use.,3381110,0.0,9,9
+app_840,Facebook,Music,4.8,Great app! Love the features and easy to use.,5897999,0.0,9,9
+app_841,TikTok,Social,1.6,"Terrible experience, too many bugs and crashes.",8102734,0.0,7,7
+app_842,WhatsApp,Productivity,3.9,"Not worth the money, very slow.",35775,0.0,6,6
+app_843,Snapchat,Entertainment,4.1,Great app! Love the features and easy to use.,395977,0.0,9,9
+app_844,Netflix,Music,1.4,Amazing! Highly recommended.,3822232,2.02,3,3
+app_845,Snapchat,Entertainment,4.3,Amazing! Highly recommended.,7999000,0.0,3,3
+app_846,WhatsApp,Social,4.5,Amazing! Highly recommended.,9301716,0.0,3,3
+app_847,Twitter,Music,1.0,Fast and smooth experience!,1325369,0.0,4,4
+app_848,Facebook,Entertainment,3.9,Fast and smooth experience!,5236158,0.0,4,4
+app_849,WhatsApp,Entertainment,2.6,"Decent, but needs more features.",1324626,0.0,5,5
+app_850,WhatsApp,Communication,2.3,"Decent, but needs more features.",6106342,0.0,5,5
+app_851,Facebook,Music,3.4,Great app! Love the features and easy to use.,1433093,0.0,9,9
+app_852,TikTok,Communication,3.8,"Terrible experience, too many bugs and crashes.",9059762,0.0,7,7
+app_853,WhatsApp,Social,2.3,"Lots of ads, makes it hard to use.",3150565,0.0,8,8
+app_854,Snapchat,Entertainment,1.3,Fast and smooth experience!,2541216,4.5,4,4
+app_855,Twitter,Productivity,2.6,Good but customer support is unresponsive.,3812064,0.0,6,6
+app_856,Spotify,Social,4.6,Great app! Love the features and easy to use.,8597161,1.52,9,9
+app_857,Spotify,Social,1.7,Fast and smooth experience!,4086372,4.51,4,4
+app_858,WhatsApp,Productivity,3.6,Good but customer support is unresponsive.,2591670,0.0,6,6
+app_859,Facebook,Social,4.7,"Lots of ads, makes it hard to use.",4644982,9.67,8,8
+app_860,Instagram,Communication,3.2,Fast and smooth experience!,9490817,0.61,4,4
+app_861,Twitter,Productivity,3.8,"Decent, but needs more features.",2846566,9.15,5,5
+app_862,Facebook,Productivity,4.8,Fast and smooth experience!,5513976,4.46,4,4
+app_863,Gmail,Music,5.0,Best app I have ever used!,8219117,8.97,6,6
+app_864,Netflix,Communication,3.4,Amazing! Highly recommended.,8322497,1.92,3,3
+app_865,Netflix,Music,3.9,Great app! Love the features and easy to use.,5898505,0.0,9,9
+app_866,Snapchat,Communication,3.6,"Decent, but needs more features.",3395478,0.0,5,5
+app_867,Facebook,Entertainment,2.9,Fast and smooth experience!,6799725,0.0,4,4
+app_868,Spotify,Music,2.6,"Terrible experience, too many bugs and crashes.",4384209,0.0,7,7
+app_869,Netflix,Music,2.6,Amazing! Highly recommended.,4941195,5.97,3,3
+app_870,Snapchat,Productivity,4.9,Fast and smooth experience!,5532873,3.74,4,4
+app_871,Netflix,Social,3.5,"Not worth the money, very slow.",8408804,1.54,6,6
+app_872,WhatsApp,Productivity,3.1,Great app! Love the features and easy to use.,4115302,0.0,9,9
+app_873,Instagram,Entertainment,3.3,"Decent, but needs more features.",8741620,0.0,5,5
+app_874,Netflix,Communication,2.9,Good but customer support is unresponsive.,7115018,0.0,6,6
+app_875,WhatsApp,Social,1.8,"Terrible experience, too many bugs and crashes.",3621639,0.0,7,7
+app_876,WhatsApp,Communication,1.7,"Decent, but needs more features.",8502315,6.7,5,5
+app_877,Zoom,Music,3.7,Great app! Love the features and easy to use.,6298900,4.31,9,9
+app_878,Twitter,Entertainment,2.6,Good but customer support is unresponsive.,5423360,0.0,6,6
+app_879,Spotify,Music,1.4,Amazing! Highly recommended.,8565200,0.0,3,3
+app_880,Snapchat,Communication,1.8,"Terrible experience, too many bugs and crashes.",3634654,0.0,7,7
+app_881,Snapchat,Music,2.9,"Terrible experience, too many bugs and crashes.",8781046,8.81,7,7
+app_882,Instagram,Social,2.0,"Terrible experience, too many bugs and crashes.",5754226,0.0,7,7
+app_883,Facebook,Entertainment,2.7,"Lots of ads, makes it hard to use.",7440691,0.0,8,8
+app_884,Instagram,Productivity,1.5,"Terrible experience, too many bugs and crashes.",9013325,0.0,7,7
+app_885,Gmail,Communication,2.7,Amazing! Highly recommended.,5842116,0.0,3,3
+app_886,WhatsApp,Music,1.5,Fast and smooth experience!,2391229,0.0,4,4
+app_887,TikTok,Entertainment,4.3,"Decent, but needs more features.",5494140,0.0,5,5
+app_888,Twitter,Social,4.4,Pretty good but needs improvement in UI.,1329379,0.0,7,7
+app_889,Netflix,Social,3.3,Good but customer support is unresponsive.,3251232,0.0,6,6
+app_890,Twitter,Music,2.3,"Lots of ads, makes it hard to use.",322818,3.74,8,8
+app_891,Zoom,Music,1.3,Fast and smooth experience!,3916786,0.0,4,4
+app_892,Snapchat,Communication,2.2,"Decent, but needs more features.",7814946,0.0,5,5
+app_893,Netflix,Social,1.3,"Not worth the money, very slow.",7540315,0.0,6,6
+app_894,TikTok,Social,3.1,"Lots of ads, makes it hard to use.",6830482,0.0,8,8
+app_895,Twitter,Music,2.6,"Lots of ads, makes it hard to use.",7250270,0.0,8,8
+app_896,Netflix,Productivity,3.7,Great app! Love the features and easy to use.,2905811,0.98,9,9
+app_897,WhatsApp,Music,4.5,Fast and smooth experience!,4968176,6.24,4,4
+app_898,Spotify,Entertainment,1.2,Best app I have ever used!,4631000,0.0,6,6
+app_899,Zoom,Social,4.4,Pretty good but needs improvement in UI.,3934626,0.0,7,7
+app_900,Twitter,Productivity,1.5,Good but customer support is unresponsive.,3521539,0.0,6,6
+app_901,Gmail,Communication,4.0,Good but customer support is unresponsive.,7202290,0.0,6,6
+app_902,Zoom,Social,2.5,"Not worth the money, very slow.",2710935,0.0,6,6
+app_903,Gmail,Communication,1.1,Great app! Love the features and easy to use.,9552844,0.0,9,9
+app_904,Gmail,Social,2.8,"Lots of ads, makes it hard to use.",4927028,0.0,8,8
+app_905,Spotify,Productivity,3.2,"Terrible experience, too many bugs and crashes.",8329662,0.0,7,7
+app_906,Instagram,Entertainment,1.9,Great app! Love the features and easy to use.,4477934,0.0,9,9
+app_907,Facebook,Music,2.9,Best app I have ever used!,4485787,0.0,6,6
+app_908,Netflix,Productivity,3.7,"Decent, but needs more features.",7636562,0.0,5,5
+app_909,Facebook,Entertainment,3.1,Good but customer support is unresponsive.,2787693,0.0,6,6
+app_910,Snapchat,Social,3.2,"Decent, but needs more features.",4404626,0.0,5,5
+app_911,Zoom,Entertainment,4.4,Amazing! Highly recommended.,386251,0.0,3,3
+app_912,WhatsApp,Communication,4.1,Best app I have ever used!,4988699,7.9,6,6
+app_913,WhatsApp,Productivity,2.7,"Not worth the money, very slow.",8763840,0.0,6,6
+app_914,Facebook,Productivity,3.1,"Decent, but needs more features.",1353626,0.0,5,5
+app_915,Netflix,Music,2.9,"Decent, but needs more features.",4990740,0.0,5,5
+app_916,Spotify,Communication,3.2,Amazing! Highly recommended.,2849758,0.0,3,3
+app_917,Netflix,Entertainment,3.6,Fast and smooth experience!,8297461,0.0,4,4
+app_918,Snapchat,Productivity,1.2,Great app! Love the features and easy to use.,1022946,0.0,9,9
+app_919,Facebook,Productivity,1.9,Good but customer support is unresponsive.,4322544,0.19,6,6
+app_920,Spotify,Productivity,4.4,"Terrible experience, too many bugs and crashes.",8961269,0.0,7,7
+app_921,TikTok,Social,4.2,Great app! Love the features and easy to use.,496795,0.0,9,9
+app_922,Facebook,Communication,1.2,Amazing! Highly recommended.,6221518,0.0,3,3
+app_923,Snapchat,Communication,1.3,"Lots of ads, makes it hard to use.",1246573,9.96,8,8
+app_924,WhatsApp,Music,3.9,Fast and smooth experience!,1425182,0.0,4,4
+app_925,Netflix,Entertainment,4.7,Good but customer support is unresponsive.,7247996,0.0,6,6
+app_926,Snapchat,Music,3.6,"Lots of ads, makes it hard to use.",6082108,0.0,8,8
+app_927,Snapchat,Productivity,4.9,"Not worth the money, very slow.",6662219,0.0,6,6
+app_928,Gmail,Music,4.5,Best app I have ever used!,4526070,0.0,6,6
+app_929,Spotify,Communication,4.3,"Not worth the money, very slow.",2154223,0.0,6,6
+app_930,Instagram,Communication,4.5,Amazing! Highly recommended.,7789119,0.0,3,3
+app_931,Netflix,Social,4.1,Best app I have ever used!,1902478,0.0,6,6
+app_932,TikTok,Productivity,4.9,Great app! Love the features and easy to use.,5155992,9.78,9,9
+app_933,Facebook,Productivity,2.9,"Not worth the money, very slow.",4411846,0.0,6,6
+app_934,Facebook,Productivity,3.5,"Terrible experience, too many bugs and crashes.",3122212,0.0,7,7
+app_935,Snapchat,Communication,3.4,Pretty good but needs improvement in UI.,591410,0.0,7,7
+app_936,Twitter,Productivity,1.8,Best app I have ever used!,6516707,2.28,6,6
+app_937,TikTok,Productivity,2.3,"Decent, but needs more features.",2096178,0.0,5,5
+app_938,Netflix,Communication,1.8,Great app! Love the features and easy to use.,9675738,0.0,9,9
+app_939,Spotify,Social,1.8,Best app I have ever used!,6600922,2.85,6,6
+app_940,Facebook,Music,2.6,"Terrible experience, too many bugs and crashes.",1090452,9.73,7,7
+app_941,Gmail,Music,3.8,"Not worth the money, very slow.",8047423,0.0,6,6
+app_942,Zoom,Social,2.7,Good but customer support is unresponsive.,6961148,4.11,6,6
+app_943,Gmail,Entertainment,1.1,Pretty good but needs improvement in UI.,4786337,2.97,7,7
+app_944,Netflix,Entertainment,1.1,"Lots of ads, makes it hard to use.",3738809,0.0,8,8
+app_945,TikTok,Music,3.2,"Terrible experience, too many bugs and crashes.",711441,0.0,7,7
+app_946,Spotify,Productivity,3.7,Best app I have ever used!,2973668,0.0,6,6
+app_947,Snapchat,Productivity,3.3,Great app! Love the features and easy to use.,7789472,0.0,9,9
+app_948,Twitter,Music,4.9,Pretty good but needs improvement in UI.,160653,6.23,7,7
+app_949,Netflix,Music,2.9,Best app I have ever used!,430707,0.0,6,6
+app_950,TikTok,Communication,3.7,"Lots of ads, makes it hard to use.",8014639,0.0,8,8
+app_951,Twitter,Music,2.2,Amazing! Highly recommended.,1696495,0.0,3,3
+app_952,Twitter,Communication,4.2,Fast and smooth experience!,3639305,0.0,4,4
+app_953,Facebook,Productivity,5.0,Amazing! Highly recommended.,7932213,0.0,3,3
+app_954,Netflix,Social,4.5,Good but customer support is unresponsive.,2146846,0.0,6,6
+app_955,Zoom,Communication,2.3,"Decent, but needs more features.",4443988,0.0,5,5
+app_956,Spotify,Communication,3.8,"Terrible experience, too many bugs and crashes.",1673468,0.0,7,7
+app_957,Zoom,Communication,2.3,Good but customer support is unresponsive.,4948581,0.0,6,6
+app_958,Spotify,Music,4.0,Good but customer support is unresponsive.,5626395,0.0,6,6
+app_959,Netflix,Music,4.4,Pretty good but needs improvement in UI.,4457251,0.0,7,7
+app_960,Gmail,Entertainment,3.5,"Lots of ads, makes it hard to use.",5947954,0.0,8,8
+app_961,WhatsApp,Communication,3.4,Pretty good but needs improvement in UI.,1045095,0.0,7,7
+app_962,TikTok,Social,1.7,"Decent, but needs more features.",9695128,0.0,5,5
+app_963,TikTok,Entertainment,2.6,Great app! Love the features and easy to use.,5585780,0.0,9,9
+app_964,Snapchat,Music,1.3,Pretty good but needs improvement in UI.,4776255,0.0,7,7
+app_965,Twitter,Social,1.6,Good but customer support is unresponsive.,1330824,0.0,6,6
+app_966,Spotify,Entertainment,2.2,Best app I have ever used!,9941751,0.0,6,6
+app_967,Snapchat,Productivity,3.8,"Terrible experience, too many bugs and crashes.",1743029,0.0,7,7
+app_968,Zoom,Entertainment,4.0,"Not worth the money, very slow.",4770753,0.0,6,6
+app_969,Facebook,Communication,2.6,Pretty good but needs improvement in UI.,7774378,0.0,7,7
+app_970,Facebook,Communication,2.6,Great app! Love the features and easy to use.,4248905,0.0,9,9
+app_971,TikTok,Social,1.1,"Not worth the money, very slow.",5473654,0.0,6,6
+app_972,Zoom,Productivity,2.5,"Decent, but needs more features.",6940972,6.07,5,5
+app_973,Twitter,Productivity,2.5,Amazing! Highly recommended.,7893601,0.0,3,3
+app_974,TikTok,Entertainment,2.3,Best app I have ever used!,5804386,3.33,6,6
+app_975,Twitter,Communication,4.1,Great app! Love the features and easy to use.,1865651,0.0,9,9
+app_976,Netflix,Entertainment,3.3,"Decent, but needs more features.",3448317,0.0,5,5
+app_977,WhatsApp,Productivity,4.7,Good but customer support is unresponsive.,6611354,0.0,6,6
+app_978,WhatsApp,Social,3.0,Fast and smooth experience!,9849625,0.0,4,4
+app_979,Zoom,Music,3.7,"Lots of ads, makes it hard to use.",9954459,0.0,8,8
+app_980,Facebook,Social,3.2,Good but customer support is unresponsive.,8379998,0.0,6,6
+app_981,Facebook,Communication,1.5,Fast and smooth experience!,7931182,0.0,4,4
+app_982,Facebook,Music,2.6,Good but customer support is unresponsive.,2125075,0.0,6,6
+app_983,Instagram,Communication,2.5,Great app! Love the features and easy to use.,3121580,2.7,9,9
+app_984,Facebook,Entertainment,4.8,Pretty good but needs improvement in UI.,3607108,0.0,7,7
+app_985,WhatsApp,Communication,1.8,Best app I have ever used!,6869870,0.0,6,6
+app_986,Instagram,Entertainment,1.7,"Terrible experience, too many bugs and crashes.",342887,0.0,7,7
+app_987,TikTok,Productivity,3.6,Fast and smooth experience!,2274727,0.0,4,4
+app_988,Netflix,Productivity,1.4,"Decent, but needs more features.",389505,0.0,5,5
+app_989,WhatsApp,Social,2.8,Amazing! Highly recommended.,5887861,0.45,3,3
+app_990,Spotify,Social,2.8,Best app I have ever used!,2498511,0.0,6,6
+app_991,Zoom,Communication,1.3,Amazing! Highly recommended.,4156455,0.0,3,3
+app_992,Zoom,Entertainment,4.8,"Not worth the money, very slow.",3732264,0.0,6,6
+app_993,Netflix,Music,1.2,Fast and smooth experience!,2748999,0.0,4,4
+app_994,Gmail,Productivity,4.6,Best app I have ever used!,2913235,0.0,6,6
+app_995,WhatsApp,Social,4.6,Amazing! Highly recommended.,1503025,0.0,3,3
+app_996,Instagram,Productivity,3.1,Amazing! Highly recommended.,6833757,0.0,3,3
+app_997,Snapchat,Communication,3.4,Best app I have ever used!,3670383,0.0,6,6
+app_998,Netflix,Social,1.7,"Terrible experience, too many bugs and crashes.",7436269,0.0,7,7
+app_999,Spotify,Communication,4.6,"Lots of ads, makes it hard to use.",850812,0.0,8,8

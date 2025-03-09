@@ -1,0 +1,26 @@
+import pickle
+import streamlit as st
+import numpy as np
+
+model = pickle.load(open("model.pkl", "rb"))
+scaler = pickle.load(open("scaler.pkl", "rb"))
+
+st.title("📱 App Rating Recommender")
+
+st.write("🔍 Enter app details to predict whether it will have a high rating!")
+
+reviews = st.number_input("Enter the number of reviews:", min_value=0, step=1, value=1000)
+rating = st.slider("App Rating:", 1.0, 5.0, step=0.1, value=3.5)
+
+if st.button("Predict App Success"):
+    input_data = np.array([[reviews, rating]])
+    input_scaled = scaler.transform(input_data)
+    
+    prediction = model.predict(input_scaled)[0]
+    
+    if prediction == 1:
+        st.success("✅ This app is likely to have a **high rating!** 🎉")
+    else:
+        st.warning("⚠️ This app might **not** have a high rating. Consider improving quality & reviews.")
+
+st.write("📊 **Prediction is based on user reviews and rating trends.**")
